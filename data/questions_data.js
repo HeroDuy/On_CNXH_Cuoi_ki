@@ -1,0 +1,4114 @@
+// Auto-generated verbatim from Phan_Nhom_Chu_De_CNXHKH_Cau71_300_v2.docx (230/230 verified)
+window.SL_DATA = {
+  "meta": {
+    "title": "SOCIALISM LEGENDS – Bộ 230 Câu Hỏi Trắc Nghiệm Chủ Nghĩa Xã Hội Khoa Học",
+    "source": "Phan_Nhom_Chu_De_CNXHKH_Cau71_300_v2.docx",
+    "totalQuestions": 230,
+    "chapters": 5,
+    "stages": 21,
+    "verified": true
+  },
+  "groups": [
+    {
+      "chapter": 3,
+      "stage": 1,
+      "groupCode": "1.1",
+      "groupTitle": "Chủ nghĩa xã hội và các đặc trưng bản chất của chủ nghĩa xã hội",
+      "startId": 71,
+      "endId": 74,
+      "count": 4
+    },
+    {
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "startId": 75,
+      "endId": 86,
+      "count": 12
+    },
+    {
+      "chapter": 3,
+      "stage": 3,
+      "groupCode": "1.3",
+      "groupTitle": "Quá độ lên chủ nghĩa xã hội ở Việt Nam (Điều kiện, phân phối và nhiệm vụ chiến lược)",
+      "startId": 87,
+      "endId": 90,
+      "count": 4
+    },
+    {
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "startId": 91,
+      "endId": 98,
+      "count": 8
+    },
+    {
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "startId": 99,
+      "endId": 108,
+      "count": 10
+    },
+    {
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "startId": 109,
+      "endId": 119,
+      "count": 11
+    },
+    {
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "startId": 120,
+      "endId": 130,
+      "count": 11
+    },
+    {
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "startId": 131,
+      "endId": 145,
+      "count": 15
+    },
+    {
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "startId": 146,
+      "endId": 151,
+      "count": 6
+    },
+    {
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "startId": 152,
+      "endId": 158,
+      "count": 7
+    },
+    {
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "startId": 159,
+      "endId": 170,
+      "count": 12
+    },
+    {
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "startId": 171,
+      "endId": 187,
+      "count": 17
+    },
+    {
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "startId": 188,
+      "endId": 203,
+      "count": 16
+    },
+    {
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "startId": 204,
+      "endId": 208,
+      "count": 5
+    },
+    {
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "startId": 209,
+      "endId": 226,
+      "count": 18
+    },
+    {
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "startId": 227,
+      "endId": 240,
+      "count": 14
+    },
+    {
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "startId": 241,
+      "endId": 250,
+      "count": 10
+    },
+    {
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "startId": 251,
+      "endId": 268,
+      "count": 18
+    },
+    {
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "startId": 269,
+      "endId": 279,
+      "count": 11
+    },
+    {
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "startId": 280,
+      "endId": 294,
+      "count": 15
+    },
+    {
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "startId": 295,
+      "endId": 300,
+      "count": 6
+    }
+  ],
+  "questions": [
+    {
+      "id": 71,
+      "chapter": 3,
+      "stage": 1,
+      "groupCode": "1.1",
+      "groupTitle": "Chủ nghĩa xã hội và các đặc trưng bản chất của chủ nghĩa xã hội",
+      "question": "Điền từ vào chỗ trống để hoàn thành luận điểm của V.I. Lênin: “Từ chủ nghĩa tư bản, nhân loại chỉ có thể tiến thẳng lên chủ nghĩa xã hội, nghĩa là lên chế độ ... về các tư liệu sản xuất và chế độ phân phối sản phẩm theo lao động của mỗi người”.",
+      "answers": {
+        "A": "tư hữu.",
+        "B": "tư nhân.",
+        "C": "công hữu.",
+        "D": "sở hữu."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 72,
+      "chapter": 3,
+      "stage": 1,
+      "groupCode": "1.1",
+      "groupTitle": "Chủ nghĩa xã hội và các đặc trưng bản chất của chủ nghĩa xã hội",
+      "question": "Theo chủ nghĩa xã hội khoa học, đặc trưng thể hiện thuộc tính bản chất của chủ nghĩa xã hội là",
+      "answers": {
+        "A": "giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện.",
+        "B": "có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu.",
+        "C": "chế độ xã hội do nhân dân lao động làm chủ.",
+        "D": "Tất cả các đáp án đều đúng."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 73,
+      "chapter": 3,
+      "stage": 1,
+      "groupCode": "1.1",
+      "groupTitle": "Chủ nghĩa xã hội và các đặc trưng bản chất của chủ nghĩa xã hội",
+      "question": "Theo V.I. Lênin, nhà nước nào lần đầu tiên thực hiện dân chủ cho người nghèo, cho nhân dân?",
+      "answers": {
+        "A": "Nhà nước chuyên chính tư sản.",
+        "B": "Nhà nước phong kiến.",
+        "C": "Nhà nước chuyên chính vô sản.",
+        "D": "Nhà nước chiếm hữu nô lệ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 74,
+      "chapter": 3,
+      "stage": 1,
+      "groupCode": "1.1",
+      "groupTitle": "Chủ nghĩa xã hội và các đặc trưng bản chất của chủ nghĩa xã hội",
+      "question": "Theo chủ nghĩa xã hội khoa học, đặc trưng bản chất thể hiện ở lĩnh vực văn hóa - tinh thần của chủ nghĩa xã hội là",
+      "answers": {
+        "A": "do nhân dân lao động làm chủ.",
+        "B": "có nhà nước kiểu mới mang bản chất giai cấp công nhân, đại biểu cho lợi ích, quyền lực và ý chí của nhân dân lao động.",
+        "C": "có nền văn hóa phát triển cao, kế thừa và phát huy những giá trị của văn hóa dân tộc và tinh hoa văn hóa nhân loại.",
+        "D": "bảo đảm bình đẳng, đoàn kết giữa các dân tộc và có quan hệ hữu nghị, hợp tác với nhân dân các nước trên thế giới."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 75,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Theo chủ nghĩa Mác - Lênin, quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước có trình độ phát triển như thế nào?",
+      "answers": {
+        "A": "Chưa trải qua chủ nghĩa tư bản phát triển.",
+        "B": "Tiền tư bản chủ nghĩa.",
+        "C": "Đã trải qua chủ nghĩa tư bản phát triển.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 76,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Theo chủ nghĩa Mác - Lênin, quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản đối với những nước có trình độ phát triển như thế nào?",
+      "answers": {
+        "A": "Chưa trải qua chủ nghĩa tư bản phát triển.",
+        "B": "Đã trải qua chủ nghĩa tư bản phát triển.",
+        "C": "Chủ nghĩa tư bản phát triển cao.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 77,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "thời kỳ tiếp nối cách mạng từ tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.",
+        "B": "thời kỳ giai cấp vô sản đập tan bộ máy nhà nước của giai cấp tư sản.",
+        "C": "thời kỳ giành chính quyền của giai cấp công nhân.",
+        "D": "thời kỳ cải biến cách mạng từ xã hội tiền tư bản chủ nghĩa và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 78,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Theo chủ nghĩa xã hội khoa học, đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ cải tạo cách mạng xã hội tư bản chủ nghĩa trên lĩnh vực nào?",
+      "answers": {
+        "A": "Kinh tế.",
+        "B": "Chính trị.",
+        "C": "Văn hóa, xã hội.",
+        "D": "Bao gồm tất cả các đáp án."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 79,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Theo chủ nghĩa xã hội khoa học, thời kỳ quá độ lên chủ nghĩa xã hội bắt đầu và kết thúc khi nào?",
+      "answers": {
+        "A": "Từ khi giai cấp công nhân và nhân dân lao động tiến hành đấu tranh cách mạng.",
+        "B": "Từ khi cách mạng công nghiệp thành công đến khi giai cấp công nhân và nhân dân lao động giành chính quyền.",
+        "C": "Từ khi giai cấp tư sản giành được chính quyền đến khi xây dựng thành công chủ nghĩa tư bản.",
+        "D": "Từ khi giai cấp công nhân và nhân dân lao động giành được chính quyền đến khi xây dựng thành công chủ nghĩa xã hội."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 80,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Trên lĩnh vực kinh tế, đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "tồn tại một thành phần kinh tế.",
+        "B": "tồn tại nhiều nền kinh tế.",
+        "C": "xây dựng nhà nước chuyên chính vô sản.",
+        "D": "tồn tại nền kinh tế nhiều thành phần."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 81,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực chính trị là",
+      "answers": {
+        "A": "thiết lập, tăng cường chuyên chính vô sản.",
+        "B": "giai cấp công nhân dùng bạo lực cách mạng để giành chính quyền.",
+        "C": "xây dựng nền kinh tế nhiều thành phần.",
+        "D": "thiết lập, tăng cường chuyên chính tư sản."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 82,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Thực chất việc thiết lập, tăng cường chuyên chính vô sản là",
+      "answers": {
+        "A": "Giai cấp công nhân nắm quyền lực nhà nước.",
+        "B": "Giai cấp công nhân sử dụng quyền lực nhà nước trấn áp giai cấp tư sản.",
+        "C": "Giai cấp công nhân tiến hành xây dựng một xã hội không giai cấp.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 83,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Thực chất việc thiết lập, tăng cường chuyên chính vô sản trong thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội là gì?",
+      "answers": {
+        "A": "Giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp vô sản.",
+        "B": "Giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp tư sản, tiến hành xây dựng một xã hội không giai cấp.",
+        "C": "Xây dựng Đảng để lãnh đạo cách mạng.",
+        "D": "Tăng cường ý thức hệ của tất cả các giai cấp."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 84,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực tư tưởng - văn hóa là",
+      "answers": {
+        "A": "tồn tại nhiều tư tưởng khác nhau, chủ yếu là tư tưởng vô sản và tư tưởng tư sản.",
+        "B": "giai cấp công nhân thông qua Đảng Cộng sản từng bước xây dựng văn hóa vô sản.",
+        "C": "tiếp thu giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 85,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực xã hội là",
+      "answers": {
+        "A": "tồn tại nhiều giai cấp, tầng lớp; các giai cấp, tầng lớp vừa hợp tác, vừa đấu tranh với nhau.",
+        "B": "tồn tại nền kinh tế nhiều thành phần, trong đó có thành phần kinh tế đối lập.",
+        "C": "tồn tại nhiều tư tưởng khác nhau, chủ yếu là tư tưởng vô sản và tư tưởng tư sản.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 86,
+      "chapter": 3,
+      "stage": 2,
+      "groupCode": "1.2",
+      "groupTitle": "Thời kỳ quá độ lên chủ nghĩa xã hội (Hình thức, thực chất và đặc điểm trên các lĩnh vực)",
+      "question": "Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực xã hội là",
+      "answers": {
+        "A": "thời kỳ đấu tranh giai cấp chống áp bức, bất công.",
+        "B": "xóa bỏ tệ nạn xã hội và những tàn dư của xã hội cũ để lại.",
+        "C": "thiết lập công bằng xã hội trên cơ sở thực hiện nguyên tắc phân phối theo lao động là chủ đạo.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 87,
+      "chapter": 3,
+      "stage": 3,
+      "groupCode": "1.3",
+      "groupTitle": "Quá độ lên chủ nghĩa xã hội ở Việt Nam (Điều kiện, phân phối và nhiệm vụ chiến lược)",
+      "question": "Việt Nam tiến lên chủ nghĩa xã hội trong điều kiện vừa thuận lợi, vừa khó khăn đan xen, với những đặc trưng cơ bản nào?",
+      "answers": {
+        "A": "Bao gồm tất cả các đáp án trên.",
+        "B": "Xuất phát từ một xã hội vốn là thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp.",
+        "C": "Cuộc cách mạng khoa học và công nghệ hiện đại đang diễn ra mạnh mẽ, cuốn hút tất cả các nước.",
+        "D": "Thời đại ngày nay vẫn là thời đại quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 88,
+      "chapter": 3,
+      "stage": 3,
+      "groupCode": "1.3",
+      "groupTitle": "Quá độ lên chủ nghĩa xã hội ở Việt Nam (Điều kiện, phân phối và nhiệm vụ chiến lược)",
+      "question": "Hình thức phân phối chủ đạo trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "phân phối theo nhu cầu.",
+        "B": "phân phối theo lao động.",
+        "C": "phân phối theo yêu cầu.",
+        "D": "phân phối theo nhu cầu, mức độ đóng góp và quỹ phúc lợi xã hội."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 89,
+      "chapter": 3,
+      "stage": 3,
+      "groupCode": "1.3",
+      "groupTitle": "Quá độ lên chủ nghĩa xã hội ở Việt Nam (Điều kiện, phân phối và nhiệm vụ chiến lược)",
+      "question": "Hình thức phân phối trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "phân phối theo lao động.",
+        "B": "phân phối theo mức độ đóng góp.",
+        "C": "phân phối theo quỹ phúc lợi xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 90,
+      "chapter": 3,
+      "stage": 3,
+      "groupCode": "1.3",
+      "groupTitle": "Quá độ lên chủ nghĩa xã hội ở Việt Nam (Điều kiện, phân phối và nhiệm vụ chiến lược)",
+      "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (1991) xác định hai nhiệm vụ chiến lược của cách mạng Việt Nam là",
+      "answers": {
+        "A": "xây dựng Đảng trong sạch, vững mạnh và bảo vệ Đảng.",
+        "B": "xây dựng Nhà nước pháp quyền và thực thi dân chủ.",
+        "C": "phát triển kinh tế và đảm bảo công bằng xã hội.",
+        "D": "xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 91,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Thuật ngữ “Demoskratos” trong tiếng Hy Lạp cổ đại có nghĩa là",
+      "answers": {
+        "A": "nhân dân cai trị.",
+        "B": "quyền lực thuộc về số đông.",
+        "C": "cai trị nhân dân.",
+        "D": "quyền lực thuộc về thiểu số."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 92,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, trên phương diện chế độ xã hội và trong lĩnh vực chính trị, dân chủ là",
+      "answers": {
+        "A": "một nguyên tắc - nguyên tắc dân chủ.",
+        "B": "một hình thức hay hình thái nhà nước.",
+        "C": "một giá trị xã hội mang tính toàn nhân loại.",
+        "D": "một phạm trù vĩnh viễn."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 93,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, tại sao dân chủ với tư cách là hình thức tổ chức thiết chế chính trị là một phạm trù lịch sử?",
+      "answers": {
+        "A": "Ra đời gắn liền với nhà nước và không mất đi khi nhà nước tiêu vong.",
+        "B": "Ra đời không gắn liền với nhà nước và mất đi khi nhà nước tiêu vong.",
+        "C": "Ra đời và phát triển gắn liền với nhà nước và mất đi khi nhà nước tiêu vong.",
+        "D": "Ra đời và phát triển không gắn liền với nhà nước và không mất đi khi nhà nước tiêu vong."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 94,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, trên phương diện tổ chức và quản lý xã hội, dân chủ là",
+      "answers": {
+        "A": "một hình thức hay hình thái nhà nước.",
+        "B": "một giá trị xã hội mang tính toàn nhân loại.",
+        "C": "một nguyên tắc - nguyên tắc tập trung.",
+        "D": "một nguyên tắc - nguyên tắc dân chủ."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 95,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Điền vào chỗ trống để hoàn thành câu nói của Hồ Chí Minh: “Nước ta là nước dân chủ, địa vị cao nhất là dân, vì...”.",
+      "answers": {
+        "A": "dân là chủ.",
+        "B": "công nhân là chủ.",
+        "C": "nông dân là chủ.",
+        "D": "tri thức là chủ."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 96,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, dân chủ được thể hiện trong những lĩnh vực nào?",
+      "answers": {
+        "A": "Chính trị.",
+        "B": "Kinh tế.",
+        "C": "Văn hóa - xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 97,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, trong lịch sử nhân loại chế độ nào đã thủ tiêu nền dân chủ?",
+      "answers": {
+        "A": "Tư sản.",
+        "B": "Chiếm hữu nô lệ.",
+        "C": "Phong kiến.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 98,
+      "chapter": 4,
+      "stage": 1,
+      "groupCode": "2.1",
+      "groupTitle": "Dân chủ và sự ra đời, phát triển của các nền dân chủ trong lịch sử",
+      "question": "Theo chủ nghĩa xã hội khoa học, các nền dân chủ trong lịch sử là",
+      "answers": {
+        "A": "dân chủ nguyên thủy, dân chủ chủ nô, dân chủ phong kiến.",
+        "B": "dân chủ chủ nô, dân chủ phong kiến, dân chủ xã hội chủ nghĩa.",
+        "C": "dân chủ tư sản, dân chủ xã hội chủ nghĩa, dân chủ cộng sản chủ nghĩa.",
+        "D": "dân chủ chủ nô, dân chủ tư sản, dân chủ xã hội chủ nghĩa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 99,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Nền dân chủ xã hội chủ nghĩa chính thức được xác lập khi nào?",
+      "answers": {
+        "A": "Cách mạng Tháng Mười Nga năm 1917.",
+        "B": "Công xã Paris năm 1871.",
+        "C": "Chiến tranh thế giới lần thứ hai kết thúc năm 1945.",
+        "D": "Cách mạng tháng Tám năm 1945 thành công."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 100,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Ai là người đưa ra quan điểm về sự tự tiêu vong của nền dân chủ xã hội chủ nghĩa?",
+      "answers": {
+        "A": "C. Mác.",
+        "B": "V.I. Lênin.",
+        "C": "Ph. Ăngghen.",
+        "D": "Hồ Chí Minh."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 101,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "So với các nền dân chủ có trong lịch sử nhân loại, nền dân chủ xã hội chủ nghĩa cao hơn về",
+      "answers": {
+        "A": "lượng.",
+        "B": "độ.",
+        "C": "chất.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 102,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Đặc điểm cơ bản của nền dân chủ xã hội chủ nghĩa là",
+      "answers": {
+        "A": "mọi quyền lực thuộc về giai cấp công nhân.",
+        "B": "mọi quyền lực thuộc về giai cấp nông dân.",
+        "C": "mọi quyền lực thuộc về người lãnh đạo.",
+        "D": "mọi quyền lực thuộc về nhân dân."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 103,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Theo chủ nghĩa xã hội khoa học, nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+      "answers": {
+        "A": "Giai cấp công nhân.",
+        "B": "Tầng lớp trí thức.",
+        "C": "Quần chúng nhân dân.",
+        "D": "Giai cấp nông dân."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 104,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Theo chủ nghĩa xã hội khoa học, bản chất kinh tế của nền dân chủ xã hội chủ nghĩa",
+      "answers": {
+        "A": "là chế độ sở hữu xã hội về những tư liệu sản xuất chủ yếu của toàn xã hội.",
+        "B": "là chế độ xã hội ở đó tài sản thuộc về một số người có quyền lực trong tay.",
+        "C": "là chế độ sở hữu tư nhân về tư liệu sản xuất chủ yếu.",
+        "D": "là chế độ triệt tiêu sự cạnh tranh trong kinh tế, loại trừ sự bất công."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 105,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu thể hiện bản chất nào của nền dân chủ xã hội chủ nghĩa?",
+      "answers": {
+        "A": "Bản chất kinh tế.",
+        "B": "Bản chất chính trị.",
+        "C": "Bản chất tư tưởng - văn hóa.",
+        "D": "Bản chất xã hội."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 106,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Theo chủ nghĩa xã hội khoa học, bản chất tư tưởng - văn hóa - xã hội của nền dân chủ xã hội chủ nghĩa là",
+      "answers": {
+        "A": "được xây dựng trên nền tảng sản xuất công nghiệp hiện đại, một xã hội nhân văn, nhân đạo.",
+        "B": "lấy hệ tư tưởng Mác - Lênin - hệ tư tưởng của giai cấp công nhân làm chủ đạo đối với mọi hình thái ý thức xã hội khác trong xã hội mới.",
+        "C": "được phản ánh đúng quy luật phát triển của xã hội, dưới sự chỉ đạo của Đảng.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 107,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Bản chất tư tưởng - văn hóa - xã hội của nền dân chủ xã hội chủ nghĩa là",
+      "answers": {
+        "A": "Tất cả các đáp án trên đều đúng.",
+        "B": "lấy hệ tư tưởng Mác - Lênin làm chủ đạo đối với mọi hình thái ý thức xã hội khác.",
+        "C": "kế thừa, phát huy những tinh hoa văn hóa truyền thống dân tộc.",
+        "D": "tiếp thu những giá trị tư tưởng - văn hóa, văn minh, tiến bộ xã hội... mà nhân loại đã tạo ra."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 108,
+      "chapter": 4,
+      "stage": 2,
+      "groupCode": "2.2",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa (Sự ra đời, đặc điểm và bản chất)",
+      "question": "Theo chủ nghĩa xã hội khoa học, điều kiện tiên quyết để dân chủ xã hội chủ nghĩa ra đời, tồn tại và phát triển là",
+      "answers": {
+        "A": "đảm bảo bản chất kinh tế của dân chủ xã hội chủ nghĩa.",
+        "B": "đảm bảo vai trò lãnh đạo duy nhất của Đảng Cộng sản.",
+        "C": "xây dựng nhà nước pháp quyền xã hội chủ nghĩa.",
+        "D": "đảm bảo quyền lực thuộc về nhân dân."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 109,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Cuộc cách mạng do giai cấp vô sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản dẫn đến kết quả",
+      "answers": {
+        "A": "sự ra đời của nhà nước phong kiến.",
+        "B": "sự ra đời của nhà nước xã hội chủ nghĩa.",
+        "C": "sự ra đời của nhà nước tư sản.",
+        "D": "sự ra đời của nhà nước."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 110,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Nhà nước xã hội chủ nghĩa là",
+      "answers": {
+        "A": "một kiểu nhà nước mà ở đó, sự thống trị chính trị thuộc về giai cấp công nhân.",
+        "B": "do cách mạng xã hội chủ nghĩa sản sinh ra.",
+        "C": "có sứ mệnh xây dựng thành công chủ nghĩa xã hội, đưa nhân dân lao động lên địa vị làm chủ trên tất cả các mặt của đời sống xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 111,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, nhà nước xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+      "answers": {
+        "A": "Giai cấp nông dân.",
+        "B": "Nhân dân lao động.",
+        "C": "Giai cấp công nhân.",
+        "D": "Tầng lớp trí thức."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 112,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, về kinh tế, bản chất của nhà nước xã hội chủ nghĩa chịu sự quy định của",
+      "answers": {
+        "A": "chế độ sở hữu tư nhân về tư liệu sản xuất chủ yếu.",
+        "B": "chế độ sở hữu tàn dư về tư liệu sản xuất chủ yếu.",
+        "C": "chế độ sở hữu xã hội về tư liệu sản xuất chủ yếu.",
+        "D": "chế độ sở hữu cá thể về tư liệu sản xuất chủ yếu."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 113,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Về phương diện kinh tế, mục tiêu hàng đầu của nhà nước xã hội chủ nghĩa là",
+      "answers": {
+        "A": "chăm lo cho lợi ích của giai cấp nông dân.",
+        "B": "chăm lo cho lợi ích của giai cấp tư sản.",
+        "C": "chăm lo cho lợi ích của đại đa số nhân dân lao động.",
+        "D": "chăm lo cho lợi ích của tầng lớp trí thức."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 114,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, về phương diện văn hóa, xã hội, nhà nước xã hội chủ nghĩa được xây dựng trên nền tảng tinh thần",
+      "answers": {
+        "A": "lý luận của chủ nghĩa Mác - Lênin.",
+        "B": "những giá trị văn hóa tiên tiến của nhân loại.",
+        "C": "những bản sắc riêng của dân tộc.",
+        "D": "Bao gồm tất cả các đáp án."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 115,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, căn cứ vào tính chất của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành",
+      "answers": {
+        "A": "chức năng đối nội và chức năng đối ngoại.",
+        "B": "chức năng đối nội và chức năng chính trị.",
+        "C": "chức năng giai cấp và chức năng xã hội.",
+        "D": "chức năng kinh tế và chức năng chính trị."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 116,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành",
+      "answers": {
+        "A": "chức năng giai cấp và chức năng xã hội.",
+        "B": "chức năng đối nội và chức năng chính trị.",
+        "C": "chức năng kinh tế và chức năng chính trị.",
+        "D": "chức năng đối nội và chức năng đối ngoại."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 117,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, căn cứ vào lĩnh vực tác động của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành",
+      "answers": {
+        "A": "chức năng giai cấp và chức năng xã hội.",
+        "B": "chức năng đối nội và chức năng chính trị.",
+        "C": "chức năng đối nội và chức năng đối ngoại.",
+        "D": "chức năng chính trị, kinh tế, văn hóa, xã hội..."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 118,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, một trong những nội dung thể hiện mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa là gì?",
+      "answers": {
+        "A": "Dân chủ xã hội chủ nghĩa là cơ sở, nền móng cho việc xây dựng và hoạt động của nhà nước.",
+        "B": "Dân chủ là công cụ, nền móng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa.",
+        "C": "Dân chủ xã hội chủ nghĩa là công cụ, phương tiện cho việc hoạt động của nhà nước xã hội chủ nghĩa.",
+        "D": "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 119,
+      "chapter": 4,
+      "stage": 3,
+      "groupCode": "2.3",
+      "groupTitle": "Nhà nước xã hội chủ nghĩa (Sự ra đời, bản chất, chức năng và mối quan hệ với dân chủ XHCN)",
+      "question": "Theo chủ nghĩa xã hội khoa học, một trong những nội dung thể hiện mối quan hệ giữa dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa là gì?",
+      "answers": {
+        "A": "Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọng cho việc thực thi quyền làm chủ của người dân.",
+        "B": "Nhà nước xã hội chủ nghĩa trở thành nền tảng quan trọng cho việc thực thi quyền làm chủ của giai cấp nông dân.",
+        "C": "Nhà nước xã hội chủ nghĩa trở thành cơ sở quan trọng cho việc thực thi quyền làm chủ của giai cấp công nhân.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 120,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Điền vào chỗ trống để hoàn thành quan điểm của Đảng Cộng sản Việt Nam: “Lấy..., xây dựng và phát huy quyền làm chủ của nhân dân lao động”.",
+      "answers": {
+        "A": "nông dân làm gốc.",
+        "B": "trí thức làm gốc.",
+        "C": "vô sản làm gốc.",
+        "D": "dân làm gốc."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 121,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Ở Việt Nam, hình thức dân chủ gián tiếp là",
+      "answers": {
+        "A": "hình thức dân chủ đại diện, được thực hiện do nhân dân “ủy quyền”, giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra.",
+        "B": "hình thức thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội.",
+        "C": "hình thức dân chủ gián tiếp, được thực hiện do nhân dân “ủy quyền”, giao quyền lực của mình cho tổ chức mà nhân dân gián tiếp bầu ra.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 122,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Ở Việt Nam, hình thức dân chủ nào được thực hiện do nhân dân “ủy quyền”, giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra?",
+      "answers": {
+        "A": "Dân chủ trực tiếp.",
+        "B": "Dân chủ gián tiếp.",
+        "C": "Dân chủ bán gián tiếp.",
+        "D": "Dân chủ bán trực tiếp."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 123,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Ở Việt Nam, hình thức dân chủ nào mà thông qua đó, nhân dân bằng hành động trực tiếp của mình thực hiện quyền làm chủ nhà nước và xã hội?",
+      "answers": {
+        "A": "Dân chủ gián tiếp.",
+        "B": "Dân chủ bán gián tiếp.",
+        "C": "Dân chủ trực tiếp.",
+        "D": "Dân chủ bán trực tiếp."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 124,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Theo quan niệm chung, nhà nước pháp quyền là",
+      "answers": {
+        "A": "nhà nước độc tài chuyên chế.",
+        "B": "nhà nước tôn giáo.",
+        "C": "nhà nước tước đoạt tự do của người dân.",
+        "D": "nhà nước thượng tôn pháp luật."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 125,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Quan điểm về quyền lực nhà nước được Đảng ta nhấn mạnh trong Đại hội XIII là gì?",
+      "answers": {
+        "A": "Quyền lực nhà nước là thống nhất.",
+        "B": "Có sự phân công rành mạch, phối hợp chặt chẽ.",
+        "C": "Tăng cường kiểm soát quyền lực nhà nước.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 126,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Một trong những đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là",
+      "answers": {
+        "A": "nhà nước được tổ chức và hoạt động dựa trên nguyện vọng của giai cấp tư sản.",
+        "B": "nhà nước được tổ chức và hoạt động dựa trên cơ sở của Hiến pháp và pháp luật.",
+        "C": "nhà nước được tổ chức và hoạt động dựa trên nguyện vọng của giai cấp nông dân.",
+        "D": "nhà nước được tổ chức và hoạt động dựa trên cơ sở tư tưởng của tầng lớp trí thức."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 127,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam do cơ quan nào lãnh đạo?",
+      "answers": {
+        "A": "Quốc hội.",
+        "B": "Mặt trận Tổ quốc Việt Nam.",
+        "C": "Đảng Cộng sản Việt Nam.",
+        "D": "Chính phủ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 128,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Hoạt động của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được giám sát bởi Nhân dân với phương châm",
+      "answers": {
+        "A": "nhà nước phục vụ công nhân, gắn bó mật thiết với công nhân, thực hiện đầy đủ các quyền làm chủ của công nhân.",
+        "B": "“Dân biết, dân bàn, dân kiểm tra” không thông qua các tổ chức, các cá nhân được nhân dân ủy nhiệm.",
+        "C": "nhà nước phục vụ nông dân, gắn bó mật thiết với nông dân, thực hiện đầy đủ các quyền làm chủ của nông dân.",
+        "D": "“Dân biết, dân bàn, dân làm, dân kiểm tra” thông qua các tổ chức, các cá nhân được nhân dân ủy nhiệm."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 129,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam mang bản chất của giai cấp nào?",
+      "answers": {
+        "A": "Giai cấp công nhân.",
+        "B": "Giai cấp nông dân.",
+        "C": "Nhân dân lao động.",
+        "D": "Tầng lớp trí thức."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 130,
+      "chapter": 4,
+      "stage": 4,
+      "groupCode": "2.4",
+      "groupTitle": "Dân chủ xã hội chủ nghĩa và Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam",
+      "question": "Điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam là",
+      "answers": {
+        "A": "xây dựng Nhà nước pháp quyền xã hội chủ nghĩa vững mạnh.",
+        "B": "xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh.",
+        "C": "nâng cao vai trò của các tổ chức chính trị - xã hội.",
+        "D": "hoàn thiện các hệ thống giám sát, phản biện xã hội."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 131,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Điền vào chỗ trống để hoàn thiện định nghĩa sau: “Cơ cấu xã hội là những cộng đồng người cùng toàn bộ những... do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
+      "answers": {
+        "A": "mối liên hệ.",
+        "B": "mối quan hệ cá nhân.",
+        "C": "mối quan hệ xã hội.",
+        "D": "mối quan hệ tự nhiên."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 132,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Môn Chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội - giai cấp vì",
+      "answers": {
+        "A": "đó là một trong những cơ sở để nghiên cứu vấn đề liên minh giai cấp, tầng lớp.",
+        "B": "đó là cơ sở để giai cấp tư sản thống trị các giai cấp còn lại.",
+        "C": "đó là cơ sở để giai cấp nông dân tiến hành đấu tranh lật đổ giai cấp tư sản.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 133,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Khái niệm nào dùng để chỉ hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định?",
+      "answers": {
+        "A": "Cơ cấu xã hội - giai cấp.",
+        "B": "Cơ cấu xã hội - dân cư.",
+        "C": "Cơ cấu xã hội - dân tộc.",
+        "D": "Cơ cấu xã hội - tôn giáo."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 134,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Mối quan hệ nào đóng vai trò quyết định đến sự hình thành cơ cấu xã hội - giai cấp?",
+      "answers": {
+        "A": "Mối quan hệ về tổ chức quản lý quá trình sản xuất.",
+        "B": "Mối quan hệ về sở hữu tư liệu sản xuất.",
+        "C": "Mối quan hệ về địa vị chính trị - xã hội.",
+        "D": "Mối quan hệ về phân phối."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 135,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong cơ cấu xã hội - giai cấp của thời kỳ quá độ lên chủ nghĩa xã hội bao gồm những giai cấp, tầng lớp nào?",
+      "answers": {
+        "A": "Giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức.",
+        "B": "Tầng lớp doanh nhân, tầng lớp tiểu chủ.",
+        "C": "Tầng lớp thanh niên, phụ nữ.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 136,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội đặt dưới sự lãnh đạo của tổ chức nào?",
+      "answers": {
+        "A": "Đảng dân chủ.",
+        "B": "Đoàn thanh niên.",
+        "C": "Đội tiền phong của giai cấp nông dân.",
+        "D": "Đảng Cộng sản."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 137,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Vì sao cơ cấu xã hội - giai cấp có vị trí quan trọng hàng đầu trong cơ cấu xã hội?",
+      "answers": {
+        "A": "Cơ cấu xã hội - giai cấp liên quan đến các đảng phái chính trị và nhà nước.",
+        "B": "Cơ cấu xã hội - giai cấp liên quan đến quyền sở hữu tư liệu sản xuất.",
+        "C": "Cơ cấu xã hội - giai cấp liên quan đến quản lý tổ chức lao động và vấn đề phân phối thu nhập.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 138,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Sự biến đổi của cơ cấu xã hội - giai cấp tất yếu sẽ dẫn đến",
+      "answers": {
+        "A": "Chỉ ảnh hưởng và tác động đến sự biến đổi của cơ cấu dân cư.",
+        "B": "Ảnh hưởng và tác động đến toàn bộ cơ cấu xã hội.",
+        "C": "Không ảnh hưởng và không tác động đến sự biến đổi của các cơ cấu xã hội khác.",
+        "D": "Chỉ ảnh hưởng và tác động đến sự biến đổi của cơ cấu kinh tế."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 139,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Căn cứ cơ bản để xây dựng chính sách phát triển kinh tế, văn hóa, xã hội của mỗi xã hội trong từng giai đoạn lịch sử cụ thể là",
+      "answers": {
+        "A": "cơ cấu xã hội tri thức.",
+        "B": "cơ cấu xã hội tiểu tư sản.",
+        "C": "cơ cấu xã hội - giai cấp.",
+        "D": "Tất cả các đáp án đều sai."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 140,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi gắn liền và bị quy định bởi",
+      "answers": {
+        "A": "cơ cấu xã hội - giai cấp chủ nô.",
+        "B": "cơ cấu xã hội - giai cấp nô lệ.",
+        "C": "cơ cấu nền kinh tế tự cung tự cấp.",
+        "D": "cơ cấu kinh tế."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 141,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Đối với những nước có xuất phát điểm thấp, khi bước vào thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu kinh tế sẽ biến đổi theo hướng",
+      "answers": {
+        "A": "tăng tỷ trọng công nghiệp và dịch vụ, giảm tỷ trọng nông nghiệp.",
+        "B": "hình thành các vùng, các trung tâm kinh tế lớn.",
+        "C": "phát triển lực lượng sản xuất với trình độ công nghệ cao, tiên tiến theo xu hướng ứng dụng những thành quả của cách mạng khoa học và công nghệ hiện đại.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 142,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, sự biến đổi phức tạp, đa dạng của cơ cấu xã hội - giai cấp đã dẫn đến kết quả gì?",
+      "answers": {
+        "A": "Xuất hiện các tầng lớp xã hội mới.",
+        "B": "Sự trở lại các giai cấp đã bị diệt vong.",
+        "C": "Sự suy thoái của cơ chế kinh tế thị trường.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 143,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, sự biến đổi phức tạp, đa dạng của cơ cấu xã hội - giai cấp làm xuất hiện các tầng lớp xã hội mới là do",
+      "answers": {
+        "A": "kết cấu kinh tế nhiều thành phần.",
+        "B": "kết cấu tôn giáo.",
+        "C": "kết cấu dân tộc.",
+        "D": "kết cấu kinh tế một thành phần."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 144,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Quan hệ giữa các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội biến đổi như thế nào?",
+      "answers": {
+        "A": "Vừa đấu tranh, vừa liên minh, từng bước xóa bỏ bất bình đẳng xã hội.",
+        "B": "Vừa liên minh, vừa tiêu diệt nhau, từng bước giành lợi ích về phe của mình.",
+        "C": "Vừa liên minh, vừa tranh giành quyền lãnh đạo Đảng Cộng sản.",
+        "D": "Tiêu diệt lẫn nhau vì lợi ích riêng của từng giai cấp."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 145,
+      "chapter": 5,
+      "stage": 1,
+      "groupCode": "3.1",
+      "groupTitle": "Cơ cấu xã hội – giai cấp và sự biến đổi trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Xu hướng biến đổi của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "xóa bỏ dần tình trạng bóc lột giai cấp trong xã hội, vươn tới những giá trị công bằng, bình đẳng.",
+        "B": "xóa bỏ dần liên minh giai cấp trong xã hội, vươn tới những giá trị công bằng, bất bình đẳng.",
+        "C": "xóa bỏ dần sự lãnh đạo của giai cấp công nhân trong xã hội, vươn tới sự tự do vô chính phủ.",
+        "D": "xóa bỏ dần tình trạng bóc lột giai cấp trong xã hội, vươn tới xây dựng xã hội do tầng lớp trí thức và nông dân nắm quyền."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 146,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Theo C. Mác và Ph. Ăngghen, các cuộc đấu tranh của giai cấp công nhân ở nhiều quốc gia thất bại chủ yếu là do",
+      "answers": {
+        "A": "giai cấp công nhân không liên minh với giai cấp tư sản.",
+        "B": "giai cấp công nhân không tổ chức liên minh với giai cấp nông dân.",
+        "C": "giai cấp công nhân liên minh với giai cấp tư sản và tầng lớp trí thức.",
+        "D": "giai cấp công nhân liên minh với giai cấp tư sản và tầng lớp tiểu tư sản."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 147,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Trong cách mạng xã hội chủ nghĩa, để giành thắng lợi giai cấp công nhân phải liên minh với",
+      "answers": {
+        "A": "giai cấp nông dân và giai cấp tư sản.",
+        "B": "giai cấp nông dân và các tầng lớp nhân dân lao động.",
+        "C": "giai cấp tư sản và các tập đoàn doanh nghiệp lớn.",
+        "D": "tầng lớp trí thức và các tổ chức chính trị của giai cấp tư sản."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 148,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Trong cách mạng xã hội chủ nghĩa, giai cấp công nhân liên minh với giai cấp nông dân và các tầng lớp nhân dân lao động nhằm",
+      "answers": {
+        "A": "tạo sức mạnh tổng hợp đảm bảo cho thắng lợi của cuộc cách mạng tư sản.",
+        "B": "tạo sức mạnh tổng hợp đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa.",
+        "C": "tạo sức mạnh tổng hợp đảm bảo cho thắng lợi của cuộc cách mạng tư bản chủ nghĩa.",
+        "D": "tạo sức mạnh tổng hợp đảm bảo cho thắng lợi của cuộc cách mạng địa chủ phong kiến."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 149,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Theo V.I. Lênin, điều kiện để giai cấp vô sản có thể giữ được vai trò lãnh đạo và chính quyền nhà nước là",
+      "answers": {
+        "A": "duy trì khối liên minh giữa giai cấp vô sản và tư sản.",
+        "B": "duy trì khối liên minh giữa giai cấp vô sản và nông dân.",
+        "C": "duy trì khối liên minh giữa giai cấp vô sản và địa chủ phong kiến.",
+        "D": "duy trì khối liên minh giữa giai cấp tư sản và nông dân."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 150,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Thực hiện tốt khối liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là cơ sở để",
+      "answers": {
+        "A": "xây dựng cơ sở kinh tế vững mạnh và củng cố chế độ chính trị phong kiến vững chắc.",
+        "B": "xây dựng cơ sở kinh tế vững mạnh và củng cố chế độ chính trị xã hội chủ nghĩa vững chắc.",
+        "C": "xây dựng cơ sở kinh tế vững mạnh và củng cố chế độ chính trị tư bản chủ nghĩa vững chắc.",
+        "D": "xây dựng cơ sở kinh tế vững mạnh và củng cố chế độ chính trị quân chủ chuyên chế vững chắc."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 151,
+      "chapter": 5,
+      "stage": 2,
+      "groupCode": "3.2",
+      "groupTitle": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH (Lý luận chung)",
+      "question": "Liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội được hình thành xuất phát từ yêu cầu khách quan nào?",
+      "answers": {
+        "A": "Quá trình đẩy mạnh công nghiệp hóa, hiện đại hóa và chuyển dịch cơ cấu kinh tế từ một nền sản xuất nhỏ, nông nghiệp là chủ yếu sang sản xuất hàng hóa lớn.",
+        "B": "Phát triển công nghiệp, dịch vụ và khoa học - công nghệ.",
+        "C": "Xây dựng nền tảng vật chất - kỹ thuật cần thiết cho chủ nghĩa xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 152,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Giai cấp, tầng lớp nào không thuộc cơ cấu xã hội - giai cấp của Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+      "answers": {
+        "A": "Giai cấp công nhân.",
+        "B": "Giai cấp nông dân.",
+        "C": "Giai cấp địa chủ phong kiến.",
+        "D": "Tầng lớp trí thức."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 153,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào có vai trò lãnh đạo?",
+      "answers": {
+        "A": "Giai cấp nông dân.",
+        "B": "Giai cấp tư sản.",
+        "C": "Giai cấp công nhân.",
+        "D": "Giai cấp địa chủ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 154,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Lực lượng đi đầu của quá trình phát triển kinh tế, tiến hành công nghiệp hóa, hiện đại hóa trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "giai cấp nông dân.",
+        "B": "đội ngũ doanh nhân.",
+        "C": "giai cấp công nhân.",
+        "D": "đội ngũ trí thức."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 155,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Giai cấp nào có vị trí chiến lược trong sự nghiệp công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn ở Việt Nam?",
+      "answers": {
+        "A": "Giai cấp công nhân.",
+        "B": "Tầng lớp trí thức.",
+        "C": "Giai cấp nông dân.",
+        "D": "Đội ngũ doanh nhân."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 156,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nào có xu hướng giảm dần về số lượng và tỷ lệ trong cơ cấu xã hội - giai cấp?",
+      "answers": {
+        "A": "Giai cấp công nhân.",
+        "B": "Đội ngũ trí thức.",
+        "C": "Đội ngũ doanh nhân.",
+        "D": "Giai cấp nông dân."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 157,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp nông dân có xu hướng biến đổi như thế nào trong cơ cấu xã hội - giai cấp?",
+      "answers": {
+        "A": "Tăng dần về số lượng và tỷ lệ trong cơ cấu xã hội - giai cấp.",
+        "B": "Giảm dần về số lượng và tăng dần về tỷ lệ trong cơ cấu xã hội - giai cấp.",
+        "C": "Không giảm về số lượng và tỷ lệ trong cơ cấu xã hội - giai cấp.",
+        "D": "Giảm dần về số lượng và tỷ lệ trong cơ cấu xã hội - giai cấp."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 158,
+      "chapter": 5,
+      "stage": 3,
+      "groupCode": "3.3",
+      "groupTitle": "Cơ cấu xã hội – giai cấp ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức ở Việt Nam hiện nay là",
+      "answers": {
+        "A": "giai cấp công nhân.",
+        "B": "giai cấp nông dân.",
+        "C": "đội ngũ doanh nhân.",
+        "D": "đội ngũ trí thức."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 159,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam gồm những nội dung cơ bản nào?",
+      "answers": {
+        "A": "Nội dung kinh tế.",
+        "B": "Nội dung chính trị.",
+        "C": "Nội dung văn hóa - xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 160,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Nội dung cơ bản quyết định nhất của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "nội dung quốc phòng - an ninh.",
+        "B": "nội dung chính trị.",
+        "C": "nội dung văn hóa - xã hội.",
+        "D": "nội dung kinh tế."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 161,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Nội dung nào là cơ sở vật chất - kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+      "answers": {
+        "A": "Nội dung kinh tế.",
+        "B": "Bao gồm tất cả các đáp án trên.",
+        "C": "Nội dung chính trị.",
+        "D": "Nội dung văn hóa - xã hội."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 162,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Sự hợp tác giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức, đồng thời mở rộng liên kết hợp tác với các lực lượng khác để xây dựng nền kinh tế mới xã hội chủ nghĩa hiện đại là nội dung cơ bản nào của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+      "answers": {
+        "A": "Nội dung quốc phòng - an ninh.",
+        "B": "Nội dung kinh tế.",
+        "C": "Nội dung văn hóa - xã hội.",
+        "D": "Nội dung chính trị."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 163,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội.",
+        "B": "các giai cấp, tầng lớp cùng nhau xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa, giá trị văn hóa của nhân loại và thời đại.",
+        "C": "sự hợp tác giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức, đồng thời mở rộng liên kết hợp tác với các lực lượng khác để xây dựng nền kinh tế mới xã hội chủ nghĩa hiện đại.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 164,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Một trong những nội dung kinh tế của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "xây dựng Đảng trong sạch, vững mạnh.",
+        "B": "sẵn sàng tham gia chiến đấu bảo vệ những thành quả cách mạng, bảo vệ chế độ xã hội chủ nghĩa.",
+        "C": "xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc.",
+        "D": "hoàn thiện thể chế, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 165,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội là nội dung cơ bản nào của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+      "answers": {
+        "A": "Nội dung chính trị.",
+        "B": "Nội dung quốc phòng - an ninh.",
+        "C": "Nội dung kinh tế.",
+        "D": "Nội dung văn hóa - xã hội."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 166,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nội dung chính trị của liên minh giai cấp, tầng lớp thể hiện ở việc giữ vững lập trường chính trị - tư tưởng của giai cấp nào?",
+      "answers": {
+        "A": "Giai cấp nông dân.",
+        "B": "Giai cấp công nhân.",
+        "C": "Tầng lớp trí thức.",
+        "D": "Đội ngũ doanh nhân."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 167,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Một trong những nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "nâng cao năng suất, chất lượng, hiệu quả, sức cạnh tranh của nền kinh tế.",
+        "B": "chăm sóc sức khỏe và nâng cao chất lượng cuộc sống cho nhân dân.",
+        "C": "xây dựng Đảng trong sạch, vững mạnh.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 168,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Nội dung văn hóa - xã hội của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "các giai cấp, tầng lớp cùng nhau xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa, giá trị văn hóa của nhân loại và thời đại.",
+        "B": "giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, đồng thời giữ vững vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với khối liên minh và đối với toàn xã hội.",
+        "C": "tăng cường hợp tác giữa các giai cấp, tầng lớp của liên minh, mở rộng liên kết... để xây dựng nền kinh tế mới xã hội chủ nghĩa hiện đại.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 169,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Các giai cấp, tầng lớp cùng nhau xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa, giá trị văn hóa của nhân loại và thời đại là nội dung cơ bản nào của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+      "answers": {
+        "A": "Nội dung văn hóa - xã hội.",
+        "B": "Nội dung quốc phòng - an ninh.",
+        "C": "Nội dung kinh tế.",
+        "D": "Nội dung chính trị."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 170,
+      "chapter": 5,
+      "stage": 4,
+      "groupCode": "3.4",
+      "groupTitle": "Nội dung của liên minh giai cấp, tầng lớp ở Việt Nam (Kinh tế, Chính trị, Văn hóa – Xã hội)",
+      "question": "Một trong những nội dung xã hội của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là",
+      "answers": {
+        "A": "xây dựng Đảng trong sạch, vững mạnh.",
+        "B": "xóa đói giảm nghèo.",
+        "C": "nâng cao năng suất, chất lượng, hiệu quả, sức cạnh tranh của nền kinh tế.",
+        "D": "sẵn sàng tham gia chiến đấu bảo vệ những thành quả cách mạng, bảo vệ chế độ xã hội chủ nghĩa."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 171,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Theo chủ nghĩa Mác - Lênin, nguyên nhân nào quyết định sự biến đổi của cộng đồng dân tộc?",
+      "answers": {
+        "A": "Sự biến đổi của điều kiện tự nhiên.",
+        "B": "Sự thay đổi diện tích lãnh thổ.",
+        "C": "Sự biến đổi của phương thức sản xuất.",
+        "D": "Sự thay đổi của các nền văn hóa."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 172,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Ở phương Tây, dân tộc xuất hiện khi nào?",
+      "answers": {
+        "A": "Khi phương thức sản xuất phong kiến được xác lập.",
+        "B": "Khi phương thức sản xuất chiếm hữu nô lệ được xác lập.",
+        "C": "Khi phương thức sản xuất cộng sản nguyên thủy được xác lập.",
+        "D": "Khi phương thức sản xuất tư bản chủ nghĩa được xác lập."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 173,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Khái niệm nào dùng để chỉ một cộng đồng người ổn định làm thành nhân dân một nước, có lãnh thổ riêng, nền kinh tế thống nhất, có ngôn ngữ chung và có ý thức về sự thống nhất của mình, gắn bó với nhau bởi quyền lợi chính trị, kinh tế, truyền thống văn hóa và truyền thống đấu tranh chung trong suốt quá trình lịch sử lâu dài dựng nước và giữ nước?",
+      "answers": {
+        "A": "Khái niệm dân tộc hiểu theo nghĩa rộng.",
+        "B": "Khái niệm dân tộc hiểu theo nghĩa hẹp.",
+        "C": "Khái niệm nhân dân.",
+        "D": "Khái niệm tôn giáo."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 174,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Theo nghĩa rộng, dân tộc có những đặc trưng cơ bản nào?",
+      "answers": {
+        "A": "Có chung một vùng lãnh thổ ổn định và một phương thức sinh hoạt kinh tế.",
+        "B": "Có chung một ngôn ngữ làm công cụ giao tiếp và một nền văn hóa, tâm lý.",
+        "C": "Có chung một nhà nước.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 175,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Đối với quốc gia và từng thành viên của dân tộc, yếu tố nào là thiêng liêng nhất?",
+      "answers": {
+        "A": "Văn hóa.",
+        "B": "Ngôn ngữ.",
+        "C": "Lãnh thổ.",
+        "D": "Nhà nước."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 176,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Nghĩa vụ và trách nhiệm cao nhất của mỗi thành viên dân tộc là gì?",
+      "answers": {
+        "A": "Bảo vệ phong tục tập quán của địa phương.",
+        "B": "Bảo vệ lễ hội truyền thống của tôn giáo.",
+        "C": "Bảo vệ hạnh phúc gia đình.",
+        "D": "Bảo vệ chủ quyền quốc gia."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 177,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Trong bối cảnh toàn cầu hóa hiện nay, khái niệm dân tộc, lãnh thổ, hay đường biên giới đã được mở rộng thành đường biên giới mềm thì yếu tố để phân định ranh giới giữa các quốc gia - dân tộc là",
+      "answers": {
+        "A": "dấu ấn văn hóa.",
+        "B": "dấu ấn kinh tế.",
+        "C": "đường biên giới hữu hình.",
+        "D": "không còn yếu tố nào để phân định ranh giới."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 178,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Trong các đặc trưng cơ bản của dân tộc (quốc gia), đặc trưng nào quan trọng nhất?",
+      "answers": {
+        "A": "Có chung một vùng lãnh thổ ổn định.",
+        "B": "Có chung một phương thức sinh hoạt kinh tế.",
+        "C": "Có chung một ngôn ngữ.",
+        "D": "Có chung một nhà nước."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 179,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Trong các đặc trưng cơ bản của dân tộc (quốc gia), đặc trưng nào là cơ sở để gắn kết các bộ phận, các thành viên trong dân tộc, tạo nên tính thống nhất, ổn định, bền vững của dân tộc?",
+      "answers": {
+        "A": "Có chung một lãnh thổ.",
+        "B": "Có chung một công cụ giao tiếp.",
+        "C": "Có chung một phương thức sinh hoạt kinh tế.",
+        "D": "Có chung một tâm lý."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 180,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Văn hóa dân tộc được biểu hiện thông qua",
+      "answers": {
+        "A": "tâm lý, tính cách của dân tộc.",
+        "B": "phong tục, tập quán của dân tộc.",
+        "C": "lối sống dân tộc.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 181,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Khái niệm nào dùng để chỉ một cộng đồng tộc người được hình thành trong lịch sử, có mối liên hệ chặt chẽ và bền vững, có chung ý thức tự giác tộc người, ngôn ngữ và văn hóa?",
+      "answers": {
+        "A": "Khái niệm dân tộc hiểu theo nghĩa hẹp.",
+        "B": "Khái niệm dân tộc hiểu theo nghĩa rộng.",
+        "C": "Khái niệm bộ tộc.",
+        "D": "Khái niệm thị tộc."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 182,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Dân tộc - tộc người có những đặc trưng cơ bản nào?",
+      "answers": {
+        "A": "Cộng đồng về ngôn ngữ.",
+        "B": "Cộng đồng về văn hóa.",
+        "C": "Ý thức tự giác tộc người.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 183,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Đặc trưng nào của dân tộc - tộc người là tiêu chí cơ bản để phân biệt các tộc người khác nhau?",
+      "answers": {
+        "A": "Cộng đồng về ngôn ngữ.",
+        "B": "Cộng đồng về lãnh thổ.",
+        "C": "Cộng đồng về nhà nước.",
+        "D": "Cộng đồng về đảng phái."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 184,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Đặc trưng cơ bản nào của dân tộc - tộc người phản ánh truyền thống, lối sống, phong tục, tập quán, tín ngưỡng, tôn giáo của tộc người?",
+      "answers": {
+        "A": "Cộng đồng về văn hóa.",
+        "B": "Ý thức tự giác tộc người.",
+        "C": "Cộng đồng về ngôn ngữ.",
+        "D": "Cộng đồng về lãnh thổ."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 185,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Đặc trưng nào của dân tộc - tộc người là tiêu chí quan trọng nhất để phân định một tộc người?",
+      "answers": {
+        "A": "Ý thức tự giác tộc người.",
+        "B": "Cộng đồng về văn hóa.",
+        "C": "Cộng đồng về ngôn ngữ.",
+        "D": "Cộng đồng về tiếng nói và chữ viết."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 186,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Đặc trưng nào của dân tộc - tộc người có vị trí quyết định đối với sự tồn tại và phát triển của mỗi tộc người?",
+      "answers": {
+        "A": "Cộng đồng về văn hóa.",
+        "B": "Ý thức tự giác tộc người.",
+        "C": "Cộng đồng về ngôn ngữ.",
+        "D": "Cộng đồng về văn hóa vật thể và phi vật thể."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 187,
+      "chapter": 6,
+      "stage": 1,
+      "groupCode": "4.1",
+      "groupTitle": "Dân tộc: Khái niệm, nguồn gốc và đặc trưng cơ bản (nghĩa rộng & nghĩa hẹp)",
+      "question": "Căn cứ để xem xét và phân định các tộc người ở Việt Nam hiện nay là",
+      "answers": {
+        "A": "cộng đồng về ngôn ngữ.",
+        "B": "cộng đồng về văn hóa.",
+        "C": "ý thức tự giác tộc người.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 188,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo V.I. Lênin, một trong hai xu hướng khách quan của sự phát triển quan hệ dân tộc là",
+      "answers": {
+        "A": "các dân tộc muốn thống nhất về ngôn ngữ.",
+        "B": "cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập.",
+        "C": "các cộng đồng dân cư muốn thống nhất về văn hóa.",
+        "D": "các dân tộc muốn thống nhất nhà nước."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 189,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo V.I. Lênin, nguyên nhân nào làm cho cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
+      "answers": {
+        "A": "Sự phát triển của lực lượng sản xuất, của khoa học công nghệ.",
+        "B": "Sự thức tỉnh, sự trưởng thành về ý thức dân tộc, ý thức về quyền sống của mình.",
+        "C": "Sự phát triển của kinh tế ở các dân tộc thuộc địa.",
+        "D": "Sự giao lưu kinh tế, văn hóa trong xã hội tư bản chủ nghĩa."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 190,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo V.I. Lênin, một trong hai xu hướng khách quan của sự phát triển quan hệ dân tộc là",
+      "answers": {
+        "A": "sự tách biệt về kinh tế giữa các nước tư bản chủ nghĩa diễn ra mạnh mẽ.",
+        "B": "các dân tộc trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia muốn liên hiệp lại với nhau.",
+        "C": "sự tách biệt về văn hóa giữa các quốc gia trên thế giới ngày càng rõ nét.",
+        "D": "các dân tộc trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia không muốn liên hiệp lại với nhau."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 191,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo V.I. Lênin, xu hướng các dân tộc trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia muốn liên hiệp lại với nhau nổi lên trong giai đoạn nào?",
+      "answers": {
+        "A": "Giai đoạn chủ nghĩa tư bản tự do cạnh tranh.",
+        "B": "Giai đoạn phong kiến.",
+        "C": "Giai đoạn chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc đi bóc lột thuộc địa.",
+        "D": "Giai đoạn chiếm hữu nô lệ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 192,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Cương lĩnh dân tộc của V.I. Lênin được xây dựng dựa trên cơ sở",
+      "answers": {
+        "A": "quan điểm của chủ nghĩa Mác về mối quan hệ giữa dân tộc với giai cấp.",
+        "B": "phân tích hai xu hướng khách quan trong sự phát triển dân tộc.",
+        "C": "kinh nghiệm của phong trào cách mạng thế giới và thực tiễn cách mạng Nga trong việc giải quyết vấn đề dân tộc những năm đầu thế kỷ XX.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 193,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin gồm những nội dung nào?",
+      "answers": {
+        "A": "Các dân tộc hoàn toàn bình đẳng.",
+        "B": "Các dân tộc được quyền tự quyết.",
+        "C": "Liên hiệp công nhân tất cả các dân tộc.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 194,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, nội dung nào nêu lên quyền thiêng liêng của các dân tộc?",
+      "answers": {
+        "A": "Các dân tộc được quyền tự quyết.",
+        "B": "Liên hiệp công nhân tất cả các dân tộc.",
+        "C": "Các dân tộc hoàn toàn bình đẳng.",
+        "D": "Các dân tộc tự quyết định lấy vận mệnh của mình."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 195,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo chủ nghĩa Mác - Lênin, để thực hiện được quyền bình đẳng dân tộc, trước hết phải",
+      "answers": {
+        "A": "thủ tiêu các dân tộc bị áp bức.",
+        "B": "thủ tiêu các dân tộc đi áp bức.",
+        "C": "thủ tiêu tình trạng áp bức giai cấp.",
+        "D": "xóa bỏ chính quyền các dân tộc bị áp bức."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 196,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo chủ nghĩa Mác - Lênin, cơ sở để thực hiện quyền dân tộc tự quyết là",
+      "answers": {
+        "A": "liên hiệp công nhân tất cả các dân tộc lại.",
+        "B": "chiến tranh giành quyền tự quyết.",
+        "C": "đoàn kết nông dân tất cả các dân tộc lại.",
+        "D": "quyền bình đẳng giữa các dân tộc."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 197,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, các dân tộc được quyền tự quyết được hiểu như thế nào?",
+      "answers": {
+        "A": "Quyền của các dân tộc tự quyết định lấy vận mệnh của dân tộc mình.",
+        "B": "Quyền tự lựa chọn chế độ chính trị của dân tộc mình.",
+        "C": "Quyền tự lựa chọn con đường phát triển của dân tộc mình.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 198,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, quyền tự quyết dân tộc bao gồm",
+      "answers": {
+        "A": "quyền tách ra thành lập một quốc gia dân tộc độc lập và tự nguyện liên hiệp với dân tộc khác trên cơ sở bình đẳng.",
+        "B": "quyền tách ra thành lập một cộng đồng tộc người độc lập có nhà nước riêng và tự nguyện liên hiệp với tộc người khác trên cơ sở bình đẳng.",
+        "C": "quyền các cộng đồng tộc người có thể thành lập nhà nước và thể chế chính trị riêng.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 199,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Theo Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, việc thực hiện quyền dân tộc tự quyết phải đứng vững trên lập trường của giai cấp nào?",
+      "answers": {
+        "A": "Giai cấp nông dân.",
+        "B": "Tầng lớp trí thức.",
+        "C": "Giai cấp tư sản.",
+        "D": "Giai cấp công nhân."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 200,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Nội dung nào trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin phản ánh sự thống nhất giữa giải phóng dân tộc và giải phóng giai cấp?",
+      "answers": {
+        "A": "Liên hiệp công nhân tất cả các dân tộc.",
+        "B": "Các dân tộc hoàn toàn bình đẳng.",
+        "C": "Các dân tộc được quyền tự quyết.",
+        "D": "Tất cả các đáp án đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 201,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Nội dung nào trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin phản ánh sự gắn bó chặt chẽ giữa tinh thần của chủ nghĩa yêu nước và chủ nghĩa quốc tế chân chính?",
+      "answers": {
+        "A": "Liên hiệp công nhân tất cả các dân tộc.",
+        "B": "Các dân tộc hoàn toàn bình đẳng.",
+        "C": "Các dân tộc được quyền tự quyết.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 202,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Trong Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, nội dung nào vừa là nội dung chủ yếu, vừa là giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể?",
+      "answers": {
+        "A": "Các dân tộc hoàn toàn bình đẳng.",
+        "B": "Liên hiệp công nhân tất cả các dân tộc.",
+        "C": "Các dân tộc được quyền tự quyết.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 203,
+      "chapter": 6,
+      "stage": 2,
+      "groupCode": "4.2",
+      "groupTitle": "Hai xu hướng khách quan và Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin",
+      "question": "Cơ sở lý luận quan trọng để các Đảng Cộng sản vận dụng thực hiện chính sách dân tộc trong quá trình đấu tranh giành độc lập dân tộc và xây dựng chủ nghĩa xã hội là",
+      "answers": {
+        "A": "Cương lĩnh bộ tộc của V.I. Lênin.",
+        "B": "lý luận về hai xu hướng khách quan của sự phát triển quan hệ dân tộc của C. Mác và Ph. Ăngghen.",
+        "C": "Cương lĩnh dân tộc của chủ nghĩa Mác - Lênin.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 204,
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "question": "Trong các dân tộc thiểu số ở Việt Nam, dân tộc nào có dân số thấp nhất?",
+      "answers": {
+        "A": "Thái.",
+        "B": "Mường.",
+        "C": "Nùng.",
+        "D": "Ơ Đu."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 205,
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "question": "Địa bàn sinh sống chủ yếu của người dân tộc thiểu số ở Việt Nam là",
+      "answers": {
+        "A": "vùng trung du, miền núi phía Bắc và Tây Nguyên.",
+        "B": "đồng bằng sông Hồng và Đồng bằng sông Cửu Long.",
+        "C": "duyên hải miền Trung.",
+        "D": "các thành phố lớn."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 206,
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "question": "Đặc điểm nào của dân tộc ở Việt Nam là điều kiện thuận lợi để các dân tộc tăng cường hiểu biết, mở rộng giao lưu, giúp đỡ nhau cùng phát triển, tạo nên một nền văn hóa thống nhất trong đa dạng?",
+      "answers": {
+        "A": "Có sự chênh lệch về số dân giữa các tộc người.",
+        "B": "Các dân tộc cư trú xen kẽ nhau.",
+        "C": "Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng.",
+        "D": "Các dân tộc ở Việt Nam có trình độ phát triển không đều."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 207,
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "question": "Các dân tộc thiểu số ở Việt Nam cư trú ở những địa bàn trọng yếu của quốc gia. Đó là những vùng nào?",
+      "answers": {
+        "A": "Vùng biên giới.",
+        "B": "Hải đảo.",
+        "C": "Vùng sâu, vùng xa của đất nước.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 208,
+      "chapter": 6,
+      "stage": 3,
+      "groupCode": "4.3",
+      "groupTitle": "Đặc điểm dân tộc ở Việt Nam",
+      "question": "Do yêu cầu của quá trình cải biến tự nhiên và nhu cầu phải hợp sức, đoàn kết để cùng đấu tranh chống ngoại xâm đã hình thành đặc điểm gì của dân tộc ở Việt Nam?",
+      "answers": {
+        "A": "Mỗi dân tộc có bản sắc văn hóa riêng, góp phần tạo nên sự phong phú, đa dạng của nền văn hóa Việt Nam thống nhất.",
+        "B": "Các dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở địa bàn có vị trí chiến lược quan trọng.",
+        "C": "Các dân tộc cư trú xen kẽ nhau.",
+        "D": "Các dân tộc ở Việt Nam có truyền thống đoàn kết, gắn bó lâu đời trong cộng đồng dân tộc - quốc gia thống nhất."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 209,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Điền từ vào chỗ trống để hoàn thiện quan điểm sau của chủ nghĩa Mác - Lênin: “Tôn giáo là một... phản ánh hư ảo hiện thực khách quan”.",
+      "answers": {
+        "A": "hình thái ý thức xã hội.",
+        "B": "tồn tại xã hội.",
+        "C": "hình thái ý thức chính trị.",
+        "D": "hình thái ý thức đạo đức."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 210,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Ai là người nhận định: “Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo - vào trong đầu óc của con người - của những lực lượng ở bên ngoài chi phối cuộc sống hàng ngày của họ; chỉ là sự phản ánh trong đó những lực lượng ở trần thế đã mang hình thức những lực lượng siêu trần thế”?",
+      "answers": {
+        "A": "C. Mác.",
+        "B": "Ph. Ăngghen.",
+        "C": "V.I. Lênin.",
+        "D": "Hồ Chí Minh."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 211,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Ai là người nhận định: “Sự nghèo nàn của tôn giáo vừa là biểu hiện của sự nghèo nàn hiện thực, vừa là sự phản kháng chống sự nghèo nàn hiện thực ấy. Tôn giáo là tiếng thở dài của chúng sinh bị áp bức, là trái tim của thế giới không có trái tim, cũng giống như nó là tinh thần của những trật tự không có tinh thần”?",
+      "answers": {
+        "A": "Ph. Ăngghen.",
+        "B": "V.I. Lênin.",
+        "C": "C. Mác.",
+        "D": "Hồ Chí Minh."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 212,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Nếu tiếp cận tôn giáo ở góc độ là một thực thể xã hội, thì tôn giáo có các tiêu chí cơ bản nào?",
+      "answers": {
+        "A": "Bao gồm tất cả các đáp án trên.",
+        "B": "Có niềm tin sâu sắc vào đấng siêu nhiên, đấng tối cao, thần linh để tôn thờ.",
+        "C": "Có giáo lý, giáo luật, lễ nghi.",
+        "D": "Có cơ sở thờ tự; có tổ chức nhân sự quản lý điều hành việc đạo; có tín đồ."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 213,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, tôn giáo là một hiện tượng xã hội - văn hóa do ai sáng tạo ra?",
+      "answers": {
+        "A": "Con người.",
+        "B": "Chúa Giêsu.",
+        "C": "Phật Tổ.",
+        "D": "Tín đồ."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 214,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Về phương diện thế giới quan, các tôn giáo mang thế giới quan nào?",
+      "answers": {
+        "A": "Thế giới quan duy vật biện chứng.",
+        "B": "Thế giới quan duy tâm.",
+        "C": "Thế giới quan khoa học.",
+        "D": "Thế giới quan huyền thoại."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 215,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, tín ngưỡng là gì?",
+      "answers": {
+        "A": "Niềm tin mê muội, viển vông, không dựa trên một cơ sở khoa học nào, cũng như cách thức thể hiện niềm tin của con người trước các sự vật, hiện tượng, lực lượng có tính thần thánh, linh thiêng.",
+        "B": "Niềm tin của con người vào lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín.",
+        "C": "Hệ thống những niềm tin, sự ngưỡng mộ, cũng như cách thức thể hiện niềm tin của con người trước các sự vật, hiện tượng, lực lượng có tính thần thánh, linh thiêng để cầu mong sự che chở, giúp đỡ.",
+        "D": "Hệ thống niềm tin và có giáo lý, giáo lễ, giáo luật, giáo chủ, tín đồ, cơ sở thờ tự."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 216,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Điền từ vào chỗ trống để hoàn thiện khái niệm sau: “... là hệ thống những niềm tin, sự ngưỡng mộ, cũng như cách thức thể hiện niềm tin của con người trước các sự vật, hiện tượng, lực lượng có tính thần thánh, linh thiêng để cầu mong sự che chở, giúp đỡ”.",
+      "answers": {
+        "A": "Mê tín.",
+        "B": "Mê tín dị đoan.",
+        "C": "Tôn giáo.",
+        "D": "Tín ngưỡng."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 217,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Một trong những loại hình tín ngưỡng là",
+      "answers": {
+        "A": "thờ cúng tổ tiên.",
+        "B": "cầu siêu online.",
+        "C": "cắt duyên âm.",
+        "D": "bùa ngải tâm linh, trừ tà, giải vong."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 218,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Thờ cúng tổ tiên; tưởng niệm người có công với đất nước; các lễ nghi dân gian tiêu biểu cho những giá trị lịch sử, văn hóa, đạo đức thuộc hoạt động nào?",
+      "answers": {
+        "A": "Hoạt động mê tín dị đoan.",
+        "B": "Hoạt động tín ngưỡng.",
+        "C": "Hoạt động tôn giáo.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 219,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, mê tín là gì?",
+      "answers": {
+        "A": "Là niềm tin mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức.",
+        "B": "Là niềm tin mê muội, dẫn đến những hành vi trái với các giá trị văn hóa, đạo đức, pháp luật.",
+        "C": "Là niềm tin mê muội, viển vông, không dựa trên một cơ sở khoa học nào.",
+        "D": "Là niềm tin mê muội, dẫn đến những hành vi vi phạm pháp luật, gây tổn hại cho cá nhân, xã hội."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 220,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Điền từ vào chỗ trống để hoàn thiện khái niệm sau: “... là niềm tin mê muội, viển vông, không dựa trên một cơ sở khoa học nào”.",
+      "answers": {
+        "A": "Mê tín dị đoan.",
+        "B": "Tín ngưỡng.",
+        "C": "Tôn giáo.",
+        "D": "Mê tín."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 221,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, mê tín dị đoan là gì?",
+      "answers": {
+        "A": "Là niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật, gây tổn hại cho cá nhân, xã hội và cộng đồng.",
+        "B": "Là niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín.",
+        "C": "Là những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật, gây tổn hại cho cá nhân, xã hội và cộng đồng.",
+        "D": "Là niềm tin mê muội, viển vông, không dựa trên một cơ sở khoa học nào."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 222,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Điền từ vào chỗ trống để hoàn thiện khái niệm sau: “... là niềm tin của con người vào các lực lượng siêu nhiên, thần thánh đến mức độ mê muội, cuồng tín, dẫn đến những hành vi cực đoan, sai lệch quá mức, trái với các giá trị văn hóa, đạo đức, pháp luật, gây tổn hại cho cá nhân, xã hội và cộng đồng”.",
+      "answers": {
+        "A": "Mê tín dị đoan.",
+        "B": "Mê tín.",
+        "C": "Tín ngưỡng.",
+        "D": "Tôn giáo."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 223,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Xem bói tình duyên, bùa ngải tâm linh, trừ tà, giải vong, cắt duyên âm, cầu siêu online thuộc hoạt động nào?",
+      "answers": {
+        "A": "Hoạt động mê tín dị đoan.",
+        "B": "Hoạt động tín ngưỡng.",
+        "C": "Hoạt động tôn giáo.",
+        "D": "Hoạt động tà đạo."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 224,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Chính sách của Đảng, pháp luật của Nhà nước Việt Nam nghiêm cấm hoạt động nào sau đây?",
+      "answers": {
+        "A": "Hoạt động mê tín dị đoan.",
+        "B": "Hoạt động tín ngưỡng.",
+        "C": "Hoạt động tôn giáo.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 225,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Hoạt động của các nhóm Thanh Hải Vô thượng sư, Pháp môn diệu âm, Dương Văn Mình, đạo Hà Mòn, đạo Hoàng Thiên Long thuộc",
+      "answers": {
+        "A": "hoạt động tà đạo.",
+        "B": "hoạt động tín ngưỡng.",
+        "C": "hoạt động tôn giáo.",
+        "D": "hoạt động mê tín dị đoan."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 226,
+      "chapter": 6,
+      "stage": 4,
+      "groupCode": "4.4",
+      "groupTitle": "Tôn giáo: Bản chất và phân biệt tôn giáo, tín ngưỡng, mê tín, mê tín dị đoan, tà đạo",
+      "question": "Lễ Giáng Sinh (Noel) tổ chức vào ngày 25/12 hằng năm là hoạt động thuộc",
+      "answers": {
+        "A": "hoạt động tín ngưỡng.",
+        "B": "hoạt động tôn giáo.",
+        "C": "hoạt động mê tín dị đoan.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 227,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, tôn giáo có những nguồn gốc nào?",
+      "answers": {
+        "A": "Nguồn gốc tự nhiên, kinh tế - xã hội.",
+        "B": "Nguồn gốc nhận thức.",
+        "C": "Nguồn gốc tâm lý.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 228,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Luận điểm sau đề cập đến nguồn gốc nào của tôn giáo: Do lực lượng sản xuất chưa phát triển, trước thiên nhiên hùng vĩ tác động khiến cho con người cảm thấy yếu đuối và gán cho tự nhiên những quyền lực thần bí... Do không giải thích được nguồn gốc của sự phân hóa giai cấp và áp bức bóc lột bất công, con người trông chờ vào sự giải phóng của một lực lượng siêu nhiên?",
+      "answers": {
+        "A": "Nguồn gốc nhận thức.",
+        "B": "Nguồn gốc tự nhiên, kinh tế - xã hội.",
+        "C": "Nguồn gốc tâm lý.",
+        "D": "Nguồn gốc chính trị."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 229,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Luận điểm sau đề cập đến nguồn gốc nào của tôn giáo: “Khi khoảng cách giữa “biết” và “chưa biết” vẫn tồn tại, khi những điều mà khoa học chưa giải thích được, thì điều đó thường được giải thích thông qua lăng kính các tôn giáo”?",
+      "answers": {
+        "A": "Nguồn gốc tâm lý.",
+        "B": "Nguồn gốc nhận thức.",
+        "C": "Nguồn gốc tự nhiên.",
+        "D": "Nguồn gốc kinh tế - xã hội."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 230,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Luận điểm sau đề cập đến nguồn gốc nào của tôn giáo: “Sự sợ hãi trước những hiện tượng tự nhiên, xã hội, hay trong những lúc ốm đau, bệnh tật; ngay cả những may, rủi bất ngờ xảy ra, hoặc tâm lý muốn được bình yên khi làm một việc lớn, con người cũng dễ tìm đến với tôn giáo”?",
+      "answers": {
+        "A": "Nguồn gốc tự nhiên.",
+        "B": "Nguồn gốc tâm lý.",
+        "C": "Nguồn gốc kinh tế - xã hội.",
+        "D": "Nguồn gốc nhận thức."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 231,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, tôn giáo có những tính chất nào?",
+      "answers": {
+        "A": "Tính lịch sử của tôn giáo.",
+        "B": "Tính quần chúng của tôn giáo.",
+        "C": "Tính chính trị của tôn giáo.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 232,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Luận điểm sau đây biểu hiện tính chất nào của tôn giáo: “Tôn giáo có sự hình thành, tồn tại, phát triển và có khả năng biến đổi trong những giai đoạn lịch sử nhất định để thích nghi với nhiều chế độ chính trị - xã hội”?",
+      "answers": {
+        "A": "Tính quần chúng của tôn giáo.",
+        "B": "Tính chính trị của tôn giáo.",
+        "C": "Tính lịch sử của tôn giáo.",
+        "D": "Tính xã hội của tôn giáo."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 233,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Vì sao tôn giáo là một hiện tượng xã hội có tính lịch sử?",
+      "answers": {
+        "A": "Vì tôn giáo là một hiện tượng xã hội phổ biến ở tất cả các dân tộc, quốc gia, châu lục, có số lượng tín đồ rất đông đảo, chiếm gần 3/4 dân số thế giới.",
+        "B": "Vì các tôn giáo là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng nhân dân.",
+        "C": "Vì tôn giáo có sự hình thành, tồn tại và phát triển và có khả năng biến đổi trong những giai đoạn lịch sử nhất định để thích nghi với nhiều chế độ chính trị - xã hội.",
+        "D": "Vì các giai cấp bóc lột, thống trị sử dụng tôn giáo để phục vụ cho lợi ích giai cấp mình."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 234,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, khi khoa học và giáo dục giúp cho đại đa số quần chúng nhân dân nhận thức được bản chất các hiện tượng tự nhiên và xã hội thì",
+      "answers": {
+        "A": "tôn giáo càng gia tăng vị trí của nó trong đời sống xã hội và cả trong nhận thức, niềm tin của mỗi người.",
+        "B": "tín đồ tôn giáo càng nhiều.",
+        "C": "tôn giáo sẽ dần dần mất đi vị trí của nó trong đời sống xã hội và cả trong nhận thức, niềm tin của mỗi người.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 235,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Luận điểm sau đây biểu hiện tính chất nào của tôn giáo: Tôn giáo có số lượng tín đồ rất đông đảo, chiếm gần 3/4 dân số thế giới; các tôn giáo là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng nhân dân?",
+      "answers": {
+        "A": "Tính lịch sử của tôn giáo.",
+        "B": "Tính chính trị của tôn giáo.",
+        "C": "Tính quần chúng của tôn giáo.",
+        "D": "Tính xã hội của tôn giáo."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 236,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Nội dung nào sau đây biểu hiện tính quần chúng của tôn giáo?",
+      "answers": {
+        "A": "Tôn giáo có sự hình thành, tồn tại, phát triển và biến đổi trong những giai đoạn lịch sử nhất định.",
+        "B": "Tôn giáo sẽ dần mất đi vị trí của nó trong đời sống xã hội và trong nhận thức, niềm tin của mỗi người.",
+        "C": "Khi xã hội chưa có giai cấp, tôn giáo chỉ phản ánh nhận thức hồn nhiên, ngây thơ của con người về bản thân và thế giới xung quanh mình.",
+        "D": "Tôn giáo có số lượng tín đồ rất đông đảo, chiếm gần 3/4 dân số thế giới; các tôn giáo là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng nhân dân."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 237,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Hiện nay, tín đồ tôn giáo chiếm bao nhiêu trong dân số thế giới?",
+      "answers": {
+        "A": "Gần 2/3 dân số thế giới.",
+        "B": "Gần 1/2 dân số thế giới.",
+        "C": "Gần 1/4 dân số thế giới.",
+        "D": "Gần 3/4 dân số thế giới."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 238,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Khi xã hội chưa có giai cấp, tôn giáo có mang tính chính trị không?",
+      "answers": {
+        "A": "Có.",
+        "B": "Có cả mặt chính trị và mặt tư tưởng.",
+        "C": "Chỉ thuần tuý mang tính chính trị.",
+        "D": "Không."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 239,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Tính chất chính trị của tôn giáo chỉ xuất hiện khi nào?",
+      "answers": {
+        "A": "Khi xã hội chưa có giai cấp.",
+        "B": "Khi tôn giáo chỉ phản ánh nhận thức hồn nhiên, ngây thơ của con người về bản thân và thế giới xung quanh.",
+        "C": "Khi xuất hiện xã hội công xã nguyên thủy.",
+        "D": "Khi xã hội đã phân chia giai cấp, có sự khác biệt, sự đối kháng về lợi ích giai cấp."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 240,
+      "chapter": 6,
+      "stage": 5,
+      "groupCode": "4.5",
+      "groupTitle": "Nguồn gốc và tính chất của tôn giáo",
+      "question": "Điền từ vào chỗ trống để hoàn thiện quan điểm sau của chủ nghĩa Mác - Lênin: “Khi các giai cấp bóc lột, thống trị sử dụng tôn giáo để phục vụ cho lợi ích giai cấp mình, chống lại các giai cấp lao động và tiến bộ xã hội, tôn giáo mang... tiêu cực, phản tiến bộ”.",
+      "answers": {
+        "A": "tính lịch sử.",
+        "B": "tính quần chúng.",
+        "C": "tính thống trị.",
+        "D": "tính chính trị."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 241,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Điền từ vào chỗ trống để hoàn thiện một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội: “Tôn trọng, bảo đảm quyền tự do... và không... của nhân dân”.",
+      "answers": {
+        "A": "tín ngưỡng.",
+        "B": "mê tín dị đoan.",
+        "C": "mê tín.",
+        "D": "hoạt động tà đạo."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 242,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "bảo đảm quyền tự do tín ngưỡng và hoạt động mê tín dị đoan của công dân.",
+        "B": "tôn trọng, bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của nhân dân.",
+        "C": "tôn trọng quyền tự do không tín ngưỡng và tự do hoạt động tà đạo của công dân.",
+        "D": "Đảng, Nhà nước Việt Nam thực hiện nhất quán chính sách đoàn kết đồng bào theo các tôn giáo khác nhau."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 243,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Điền từ vào chỗ trống để hoàn thiện quan điểm sau của chủ nghĩa Mác - Lênin: “Mọi hành vi cấm đoán, ngăn cản tự do theo đạo, đổi đạo, bỏ đạo hay đe dọa, bắt buộc người dân phải theo đạo đều xâm phạm đến... của họ”.",
+      "answers": {
+        "A": "quyền tự do chính trị.",
+        "B": "quyền tự do ngôn luận.",
+        "C": "quyền tự do tư tưởng.",
+        "D": "quyền tự do học thuật."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 244,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "khắc phục dần những ảnh hưởng tiêu cực của tôn giáo phải gắn liền với quá trình cải tạo xã hội cũ, xây dựng xã hội mới.",
+        "B": "khắc phục dần những ảnh hưởng của tôn giáo chỉ gắn liền với quá trình cải tạo xã hội cũ.",
+        "C": "khắc phục dần những ảnh hưởng của tôn giáo chỉ gắn liền với quá trình xây dựng xã hội mới.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 245,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, khắc phục dần những ảnh hưởng tiêu cực của tôn giáo phải gắn liền với quá trình",
+      "answers": {
+        "A": "cải tạo xã hội cũ, xây dựng xã hội mới.",
+        "B": "cấm đoán hoạt động tôn giáo.",
+        "C": "can thiệp vào công việc nội bộ của các tôn giáo.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 246,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Điền từ vào chỗ trống để hoàn thiện quan điểm sau của chủ nghĩa Mác - Lênin: “Muốn thay đổi ý thức xã hội, trước hết cần phải thay đổi bản thân... muốn xoá bỏ ảo tưởng nảy sinh trong tư tưởng con người, phải xoá bỏ... sinh ra ảo tưởng ấy”.",
+      "answers": {
+        "A": "tồn tại xã hội... nguyên nhân chủ quan.",
+        "B": "tồn tại xã hội... nguồn gốc.",
+        "C": "ý thức xã hội... nguồn gốc.",
+        "D": "ý thức xã hội... nguyên nhân khách quan."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 247,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "chỉ cần phân biệt mặt chính trị trong quá trình giải quyết vấn đề tôn giáo.",
+        "B": "chỉ cần phân biệt mặt tư tưởng trong quá trình giải quyết vấn đề tôn giáo.",
+        "C": "phân biệt hai mặt chính trị và tư tưởng của tôn giáo trong quá trình giải quyết vấn đề tôn giáo.",
+        "D": "phân biệt hai mặt tín ngưỡng và tư tưởng của tôn giáo trong quá trình giải quyết vấn đề tôn giáo."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 248,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong xã hội nào tín ngưỡng, tôn giáo chỉ biểu hiện thuần tuý về tư tưởng?",
+      "answers": {
+        "A": "Xã hội chiếm hữu nô lệ.",
+        "B": "Xã hội phong kiến.",
+        "C": "Xã hội tư bản chủ nghĩa.",
+        "D": "Xã hội công xã nguyên thủy."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 249,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, phân biệt hai mặt chính trị và tư tưởng trong giải quyết vấn đề tôn giáo thực chất là",
+      "answers": {
+        "A": "phân biệt tính chất khác nhau của hai loại mâu thuẫn luôn tồn tại trong bản thân tôn giáo và trong vấn đề tôn giáo.",
+        "B": "phân biệt tính chất khác nhau của mâu thuẫn giữa những thế lực lợi dụng tôn giáo chống lại sự nghiệp cách mạng với lợi ích của nhân dân lao động.",
+        "C": "phân biệt tính chất khác nhau của mâu thuẫn giữa những người có tín ngưỡng, tôn giáo và những người không theo tôn giáo.",
+        "D": "phân biệt tính chất khác nhau của mâu thuẫn giữa những người có tín ngưỡng, tôn giáo khác nhau."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 250,
+      "chapter": 6,
+      "stage": 6,
+      "groupCode": "4.6",
+      "groupTitle": "Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, một trong những nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên chủ nghĩa xã hội là",
+      "answers": {
+        "A": "phân biệt mặt tư tưởng trong quá trình giải quyết vấn đề tín ngưỡng.",
+        "B": "quan điểm lịch sử cụ thể trong giải quyết vấn đề tín ngưỡng, tôn giáo.",
+        "C": "khắc phục dần những ảnh hưởng của tôn giáo chỉ gắn liền với quá trình cải tạo xã hội cũ.",
+        "D": "trách nhiệm của riêng Ban Tôn giáo Chính phủ."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 251,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, cộng đồng người đặc biệt, có vai trò quyết định đến sự tồn tại và phát triển của xã hội là",
+      "answers": {
+        "A": "nhà trường.",
+        "B": "cơ quan, tổ chức.",
+        "C": "gia đình.",
+        "D": "doanh nghiệp."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 252,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Quan hệ nào được coi là quan hệ cơ bản nhất trong gia đình?",
+      "answers": {
+        "A": "Quan hệ quần tụ trong một không gian sinh tồn.",
+        "B": "Quan hệ nuôi dưỡng.",
+        "C": "Quan hệ giáo dục.",
+        "D": "Quan hệ hôn nhân và quan hệ huyết thống."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 253,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Quan hệ nào được xem là cơ sở, nền tảng hình thành nên các mối quan hệ khác trong gia đình?",
+      "answers": {
+        "A": "Quan hệ hôn nhân.",
+        "B": "Quan hệ huyết thống.",
+        "C": "Quan hệ nuôi dưỡng.",
+        "D": "Quan hệ giáo dục."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 254,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Trong gia đình, quan hệ huyết thống được xem là",
+      "answers": {
+        "A": "mối quan hệ xã hội.",
+        "B": "mối quan hệ tự nhiên.",
+        "C": "mối quan hệ bán tự nhiên.",
+        "D": "mối quan hệ siêu tự nhiên."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 255,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Gia đình được hình thành, duy trì và củng cố chủ yếu dựa trên cơ sở",
+      "answers": {
+        "A": "hôn nhân.",
+        "B": "quan hệ huyết thống.",
+        "C": "quan hệ nuôi dưỡng.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 256,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Trong xã hội, gia đình có những vị trí nào? (chọn đáp án đúng nhất)",
+      "answers": {
+        "A": "Tế bào của xã hội; tái sản xuất ra con người; cầu nối giữa cá nhân với xã hội.",
+        "B": "Tế bào của xã hội; tổ ấm mang lại các giá trị hạnh phúc; kinh tế và tổ chức tiêu dùng.",
+        "C": "Thoả mãn nhu cầu tâm sinh lý; tổ ấm mang lại các giá trị hạnh phúc; cầu nối giữa cá nhân với xã hội.",
+        "D": "Tế bào của xã hội; tổ ấm mang lại các giá trị hạnh phúc; cầu nối giữa cá nhân với xã hội."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 257,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Trong xã hội, gia đình có những vị trí nào? (chọn đáp án thích hợp nhất)",
+      "answers": {
+        "A": "Tế bào của xã hội.",
+        "B": "Tổ ấm mang lại các giá trị hạnh phúc.",
+        "C": "Cầu nối giữa cá nhân với xã hội.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 258,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Theo chủ nghĩa xã hội khoa học, trong xã hội gia đình có mấy vị trí?",
+      "answers": {
+        "A": "2 vị trí.",
+        "B": "3 vị trí.",
+        "C": "4 vị trí.",
+        "D": "5 vị trí."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 259,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Một trong những vị trí của gia đình trong xã hội là",
+      "answers": {
+        "A": "tái sản xuất ra con người.",
+        "B": "nuôi dưỡng, giáo dục.",
+        "C": "tế bào của xã hội.",
+        "D": "thoả mãn nhu cầu tâm sinh lý."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 260,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Một trong những vị trí của gia đình trong xã hội là",
+      "answers": {
+        "A": "tái sản xuất ra con người.",
+        "B": "nuôi dưỡng, giáo dục.",
+        "C": "thoả mãn nhu cầu tâm sinh lý.",
+        "D": "tổ ấm mang lại các giá trị hạnh phúc."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 261,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Một trong những vị trí của gia đình trong xã hội là",
+      "answers": {
+        "A": "cầu nối giữa cá nhân và xã hội.",
+        "B": "nuôi dưỡng và giáo dục.",
+        "C": "tái sản xuất ra con người.",
+        "D": "thoả mãn nhu cầu tâm sinh lý."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 262,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Theo chủ nghĩa xã hội khoa học, gia đình có mấy chức năng cơ bản?",
+      "answers": {
+        "A": "4 chức năng.",
+        "B": "2 chức năng.",
+        "C": "3 chức năng.",
+        "D": "5 chức năng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 263,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Gia đình có những chức năng cơ bản nào? (chọn đáp án đúng nhất)",
+      "answers": {
+        "A": "Tái sản xuất ra con người; nuôi dưỡng, giáo dục; chức năng kinh tế và tổ chức tiêu dùng; thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+        "B": "Tái sản xuất ra con người; cầu nối giữa cá nhân và xã hội; kinh tế và tổ chức tiêu dùng; thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+        "C": "Tái sản xuất ra con người; nuôi dưỡng, giáo dục; kinh tế và tổ chức tiêu dùng; tế bào của xã hội.",
+        "D": "Tái sản xuất ra con người; nuôi dưỡng, giáo dục; tổ ấm mang lại các giá trị hạnh phúc; thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 264,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Chức năng nào sau đây được xem là chức năng đặc thù của gia đình, không một cộng đồng nào có thể thay thế?",
+      "answers": {
+        "A": "Tái sản xuất ra con người.",
+        "B": "Nuôi dưỡng, giáo dục.",
+        "C": "Chức năng kinh tế và tổ chức tiêu dùng.",
+        "D": "Thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 265,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Chức năng nào của gia đình có ảnh hưởng lâu dài và toàn diện đến cuộc đời của mỗi thành viên?",
+      "answers": {
+        "A": "Nuôi dưỡng, giáo dục.",
+        "B": "Mang lại các giá trị hạnh phúc.",
+        "C": "Kinh tế và tổ chức tiêu dùng.",
+        "D": "Thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 266,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Cần thực hiện chức năng nào để gia đình đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
+      "answers": {
+        "A": "Chức năng thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+        "B": "Chức năng kinh tế và tổ chức tiêu dùng.",
+        "C": "Chức năng tái sản xuất ra con người.",
+        "D": "Chức năng nuôi dưỡng, giáo dục."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 267,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Cần thực hiện tốt chức năng nào để gia đình có cơ sở tổ chức tốt đời sống, nuôi dạy con cái, đóng góp to lớn đối với sự phát triển của xã hội?",
+      "answers": {
+        "A": "Chức năng thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+        "B": "Chức năng kinh tế và tổ chức tiêu dùng.",
+        "C": "Chức năng tái sản xuất ra con người.",
+        "D": "Chức năng nuôi dưỡng, giáo dục."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 268,
+      "chapter": 7,
+      "stage": 1,
+      "groupCode": "5.1",
+      "groupTitle": "Khái niệm, vị trí và chức năng cơ bản của gia đình",
+      "question": "Chức năng nào được xem là chức năng thường xuyên của gia đình?",
+      "answers": {
+        "A": "Tế bào của xã hội.",
+        "B": "Thoả mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình.",
+        "C": "Tổ ấm mang lại các giá trị hạnh phúc.",
+        "D": "Cầu nối giữa cá nhân với xã hội."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 269,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Theo V.I. Lênin, để thủ tiêu “chế độ nô lệ gia đình”, đặc biệt là giải phóng người phụ nữ cần phải",
+      "answers": {
+        "A": "cần ban hành luật.",
+        "B": "thay thế nền kinh tế gia đình cá thể bằng nền kinh tế xã hội hoá quy mô lớn.",
+        "C": "trao quyền nhiều hơn cho phụ nữ.",
+        "D": "giúp phụ nữ được đến trường."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 270,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Sự thống trị của người đàn ông trong gia đình là kết quả sự thống trị của họ về",
+      "answers": {
+        "A": "chính trị.",
+        "B": "kinh tế.",
+        "C": "văn hoá.",
+        "D": "tư tưởng."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 271,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Ai là người nhận định: “Tư liệu sản xuất chuyển thành tài sản chung, thì gia đình cá thể sẽ không còn là đơn vị kinh tế của xã hội nữa. Nền kinh tế tư nhân biến thành một ngành lao động xã hội. Việc nuôi dạy con cái trở thành công việc của xã hội”?",
+      "answers": {
+        "A": "C. Mác.",
+        "B": "Hồ Chí Minh.",
+        "C": "Ph. Ăngghen.",
+        "D": "V.I. Lênin."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 272,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Điền từ vào chỗ trống để hoàn thiện nhận định sau của Ph. Ăngghen: “... chuyển thành tài sản chung, thì gia đình cá thể sẽ không còn là đơn vị kinh tế của xã hội nữa. Nền kinh tế tư nhân biến thành một ngành lao động xã hội”.",
+      "answers": {
+        "A": "Lực lượng sản xuất.",
+        "B": "Quan hệ sản xuất.",
+        "C": "Tư liệu sản xuất.",
+        "D": "Công cụ lao động."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 273,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Cơ sở làm cho hôn nhân được thực hiện dựa trên tình yêu chứ không phải vì lý do kinh tế, địa vị xã hội hay một sự tính toán khác là",
+      "answers": {
+        "A": "xoá bỏ chế độ công hữu về tư liệu sản xuất.",
+        "B": "xoá bỏ chế độ sở hữu xã hội về tư liệu sản xuất.",
+        "C": "xoá bỏ chế độ tư hữu về tư liệu sản xuất.",
+        "D": "xoá bỏ chế độ sở hữu tập thể về tư liệu sản xuất."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 274,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa là cơ sở nào để xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+      "answers": {
+        "A": "Cơ sở kinh tế.",
+        "B": "Cơ sở văn hoá.",
+        "C": "Cơ sở chính trị.",
+        "D": "Chế độ hôn nhân tiến bộ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 275,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Theo V.I. Lênin, chính quyền đầu tiên và duy nhất trên thế giới đã hoàn toàn thủ tiêu tất cả những pháp luật đặt người phụ nữ vào tình trạng không bình đẳng với nam giới là",
+      "answers": {
+        "A": "chính quyền phong kiến.",
+        "B": "chính quyền tư sản.",
+        "C": "chính quyền Xôviết.",
+        "D": "chính quyền Công xã Paris."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 276,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Công cụ xoá bỏ những luật lệ cũ kỹ, lạc hậu đè nặng lên vai người phụ nữ, đồng thời thực hiện việc giải phóng phụ nữ và bảo vệ hạnh phúc gia đình là",
+      "answers": {
+        "A": "nhà nước quân chủ.",
+        "B": "nhà nước phong kiến.",
+        "C": "nhà nước chủ nô.",
+        "D": "nhà nước xã hội chủ nghĩa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 277,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Sự phát triển của hệ thống giáo dục, đào tạo, khoa học và công nghệ góp phần",
+      "answers": {
+        "A": "nâng cao trình độ dân trí của xã hội.",
+        "B": "nâng cao kiến thức khoa học và công nghệ của xã hội.",
+        "C": "cung cấp cho các thành viên trong gia đình kiến thức, nhận thức mới.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 278,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, gia đình được xây dựng trên những cơ sở nào?",
+      "answers": {
+        "A": "Cơ sở kinh tế - xã hội.",
+        "B": "Cơ sở chính trị - xã hội.",
+        "C": "Cơ sở văn hoá.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 279,
+      "chapter": 7,
+      "stage": 2,
+      "groupCode": "5.2",
+      "groupTitle": "Cơ sở xây dựng gia đình trong thời kỳ quá độ lên CNXH (Kinh tế, Chính trị, Văn hóa)",
+      "question": "Thiếu cơ sở văn hoá thì việc xây dựng gia đình sẽ",
+      "answers": {
+        "A": "lệch lạc, không đạt hiệu quả cao.",
+        "B": "đạt được kết quả cao trong xây dựng gia đình văn hoá.",
+        "C": "tạo sự gắn kết bền chặt giữa giá trị truyền thống và hiện đại trong gia đình.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 280,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Hôn nhân tiến bộ là hôn nhân xuất phát từ",
+      "answers": {
+        "A": "sự áp đặt của cha mẹ.",
+        "B": "xem bói tình duyên.",
+        "C": "tình yêu giữa cha mẹ nuôi và con nuôi.",
+        "D": "tình yêu giữa nam và nữ."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 281,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Hôn nhân xuất phát từ tình yêu tất yếu dẫn đến",
+      "answers": {
+        "A": "hôn nhân tự nguyện.",
+        "B": "hôn nhân bị ép buộc.",
+        "C": "hôn nhân do cha mẹ đặt đâu con ngồi đó.",
+        "D": "Tất cả các đáp án trên đều đúng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 282,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Hôn nhân tự nguyện đảm bảo cho nam, nữ có quyền",
+      "answers": {
+        "A": "tự do trong việc chiếm hữu, định đoạt tài sản chung mà không cần thoả thuận.",
+        "B": "tự do trong việc lựa chọn người kết hôn.",
+        "C": "tự do kết hôn khi chưa đủ tuổi.",
+        "D": "tự do kết hôn với vợ hoặc chồng của người khác."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 283,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Điền từ vào chỗ trống hoàn thiện quan điểm sau của Ph. Ăngghen: “Nếu nghĩa vụ của vợ chồng là phải thương yêu nhau thì nghĩa vụ của những kẻ thương yêu nhau há chẳng phải là... và không được kết hôn với người khác hay sao?”.",
+      "answers": {
+        "A": "Chung thuỷ với nhau.",
+        "B": "Có trách nhiệm với nhau.",
+        "C": "Kết hôn với nhau.",
+        "D": "Bên nhau trọn đời."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 284,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Hôn nhân tiến bộ còn bao hàm cả quyền",
+      "answers": {
+        "A": "vợ quyết định nơi cư trú.",
+        "B": "chồng quyết định nơi cư trú.",
+        "C": "tự do ly hôn vì những lý do ích kỷ hoặc vì mục đích vụ lợi.",
+        "D": "tự do ly hôn khi tình yêu giữa nam và nữ không còn nữa."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 285,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Hôn nhân tiến bộ không khuyến khích việc",
+      "answers": {
+        "A": "ly hôn.",
+        "B": "vợ chồng chung thủy, thương yêu nhau.",
+        "C": "vợ chồng cùng nhau chia sẻ công việc gia đình.",
+        "D": "vợ chồng bình đẳng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 286,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Điều kiện đảm bảo hạnh phúc gia đình là",
+      "answers": {
+        "A": "cưỡng ép kết hôn khi đã xem “lá số” thấy hợp đôi.",
+        "B": "thực hiện hôn nhân một vợ một chồng.",
+        "C": "thực hiện chế độ hôn nhân đa thê.",
+        "D": "hôn nhân phải cha mẹ đặt đâu con ngồi đó."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 287,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, thực hiện chế độ hôn nhân một vợ một chồng nhằm",
+      "answers": {
+        "A": "thực hiện chế độ một vợ một chồng về phía người chồng.",
+        "B": "thực hiện chế độ một vợ một chồng về phía người vợ.",
+        "C": "thực hiện sự giải phóng đối với phụ nữ.",
+        "D": "thực hiện hôn nhân một vợ một chồng chỉ đối với người phụ nữ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 288,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, thực hiện chế độ hôn nhân một vợ một chồng nhằm",
+      "answers": {
+        "A": "thực hiện môn đăng hộ đối giữa hai gia đình thông gia.",
+        "B": "thực hiện chế độ một vợ một chồng về phía người chồng.",
+        "C": "thực hiện chế độ một vợ một chồng về phía người vợ.",
+        "D": "thực hiện sự bình đẳng, tôn trọng lẫn nhau giữa vợ và chồng."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 289,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Sự bình đẳng giữa cha mẹ với con cái dựa trên cơ sở nào?",
+      "answers": {
+        "A": "Quan hệ vợ chồng bình đẳng.",
+        "B": "Quan hệ bạn bè bình đẳng.",
+        "C": "Quan hệ anh chị em bình đẳng.",
+        "D": "Quan hệ họ hàng bình đẳng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "easy"
+    },
+    {
+      "id": 290,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Tình yêu giữa nam và nữ là vấn đề riêng của mỗi người, nhưng khi hai người đã thoả thuận để đi đến kết hôn, tức là đã đưa quan hệ riêng bước vào quan hệ nào?",
+      "answers": {
+        "A": "Quan hệ cá nhân.",
+        "B": "Quan hệ xã hội.",
+        "C": "Quan hệ cá thể.",
+        "D": "Quan hệ tập thể."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 291,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Thực hiện thủ tục pháp lý trong hôn nhân thể hiện điều gì?",
+      "answers": {
+        "A": "Thể hiện sự tôn trọng trong tình yêu.",
+        "B": "Thể hiện trách nhiệm giữa nam và nữ.",
+        "C": "Thể hiện trách nhiệm của cá nhân với gia đình, xã hội và ngược lại.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 292,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Biện pháp nào dùng để ngăn chặn những cá nhân lợi dụng quyền tự do kết hôn, tự do ly hôn để thoả mãn những nhu cầu không chính đáng?",
+      "answers": {
+        "A": "Thực hiện môn đăng hộ đối trong hôn nhân.",
+        "B": "Không thực hiện thủ tục pháp lý trong hôn nhân.",
+        "C": "Không thực hiện bình đẳng trong hôn nhân.",
+        "D": "Thực hiện thủ tục pháp lý trong hôn nhân."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 293,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Vì sao phải thực hiện thủ tục pháp lý trong hôn nhân?",
+      "answers": {
+        "A": "Vì đây là biện pháp ngăn chặn những cá nhân lợi dụng quyền tự do kết hôn, tự do ly hôn để thoả mãn những nhu cầu không chính đáng.",
+        "B": "Vì đây là biện pháp duy nhất làm cho vợ chồng thương yêu nhau đến đầu bạc răng long.",
+        "C": "Vì đây là biện pháp để ngăn chặn các cặp vợ chồng đã kết hôn rồi thì không được ly hôn nữa.",
+        "D": "Tất cả các đáp án trên đều sai."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 294,
+      "chapter": 7,
+      "stage": 3,
+      "groupCode": "5.3",
+      "groupTitle": "Chế độ hôn nhân tiến bộ",
+      "question": "Cơ sở để thực hiện quyền tự do kết hôn và tự do ly hôn chính đáng một cách đầy đủ nhất là",
+      "answers": {
+        "A": "thực hiện môn đăng hộ đối trong hôn nhân.",
+        "B": "thực hiện thủ tục pháp lý trong hôn nhân.",
+        "C": "không thực hiện thủ tục pháp lý trong hôn nhân.",
+        "D": "thực hiện chung sống với nhau như vợ chồng mà không đăng ký kết hôn."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 295,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Kiểu gia đình nào đang trở nên rất phổ biến ở Việt Nam hiện nay?",
+      "answers": {
+        "A": "Gia đình truyền thống (gia đình có ba thế hệ trở lên cùng chung sống).",
+        "B": "Gia đình đa văn hoá (quan hệ hôn nhân và gia đình có yếu tố nước ngoài).",
+        "C": "Gia đình đơn (còn gọi là gia đình hạt nhân).",
+        "D": "Gia đình đa huyết thống."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 296,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Quá trình biến đổi quy mô của gia đình Việt Nam gây ra những phản chức năng nào?",
+      "answers": {
+        "A": "Tạo ra sự ngăn cách không gian giữa các thành viên trong gia đình.",
+        "B": "Tạo khó khăn, trở lực trong việc gìn giữ tình cảm của gia đình.",
+        "C": "Tạo khó khăn, trở lực trong việc gìn giữ các giá trị văn hoá truyền thống của gia đình.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 297,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Trong gia đình Việt Nam truyền thống, nhu cầu về con cái thể hiện trên những phương diện nào?",
+      "answers": {
+        "A": "Phải có con.",
+        "B": "Càng đông con càng tốt.",
+        "C": "Nhất thiết phải có con trai nối dõi.",
+        "D": "Bao gồm tất cả các đáp án trên."
+      },
+      "correctAnswer": "D",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 298,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Vì sao trong gia đình Việt Nam truyền thống, nhu cầu về con cái thể hiện trên ba phương diện: phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi?",
+      "answers": {
+        "A": "Do ảnh hưởng của cách mạng công nghiệp và thành tựu của khoa học hiện đại.",
+        "B": "Do ảnh hưởng của phong tục, tập quán và nhu cầu sản xuất nông nghiệp.",
+        "C": "Do ảnh hưởng của kinh tế thị trường định hướng xã hội chủ nghĩa.",
+        "D": "Do nhu cầu của sản xuất công nghiệp cần nhiều lao động chất lượng cao."
+      },
+      "correctAnswer": "B",
+      "explanation": "",
+      "difficulty": "hard"
+    },
+    {
+      "id": 299,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Nhu cầu về con cái của gia đình Việt Nam ngày nay có những thay đổi căn bản nào so với gia đình truyền thống?",
+      "answers": {
+        "A": "Bao gồm tất cả các đáp án.",
+        "B": "Giảm mức sinh của phụ nữ.",
+        "C": "Giảm số con mong muốn.",
+        "D": "Giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng."
+      },
+      "correctAnswer": "A",
+      "explanation": "",
+      "difficulty": "medium"
+    },
+    {
+      "id": 300,
+      "chapter": 7,
+      "stage": 4,
+      "groupCode": "5.4",
+      "groupTitle": "Sự biến đổi của gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội",
+      "question": "Nhu cầu về con cái của gia đình Việt Nam ngày nay có thay đổi căn bản nào so với gia đình truyền thống?",
+      "answers": {
+        "A": "Tăng nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.",
+        "B": "Tăng số con mong muốn, càng đông con càng tốt.",
+        "C": "Giảm nhu cầu nhất thiết phải có con trai của các cặp vợ chồng.",
+        "D": "Tăng mức sinh của phụ nữ."
+      },
+      "correctAnswer": "C",
+      "explanation": "",
+      "difficulty": "medium"
+    }
+  ]
+};

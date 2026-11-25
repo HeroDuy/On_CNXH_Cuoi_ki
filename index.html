@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SOCIALISM LEGENDS – The Knowledge Awakening</title>
+
+  <!-- Vietnamese-native Dark Fantasy Display & Body Fonts (Online enhancement, clean Windows offline fallback) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=Philosopher:wght@700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Modular Stylesheets -->
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/map.css">
+  <link rel="stylesheet" href="css/combat.css">
+  <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+  <canvas id="bg-canvas"></canvas>
+
+  <div id="app">
+    <header class="top-nav">
+      <div class="nav-brand" id="nav-brand">
+        <div class="nav-crest" id="nav-crest-slot"></div>
+        <div>
+          <div class="nav-title">SOCIALISM LEGENDS</div>
+          <div class="nav-sub">The Knowledge Awakening • 230 Câu CNXHKH</div>
+        </div>
+      </div>
+
+      <nav class="nav-links">
+        <button class="nav-btn" data-nav="menu">🏠 Trang Chủ</button>
+        <button class="nav-btn" data-nav="worldmap">🗺️ Bản Đồ</button>
+        <button class="nav-btn" data-nav="bounty">🎯 Truy Nã <span class="nav-badge" id="nav-bounty-badge" style="display:none;">0</span></button>
+        <button class="nav-btn" data-nav="practice">📖 Luyện Tập</button>
+        <button class="nav-btn" data-nav="exam">📝 Thi Thử</button>
+        <button class="nav-btn" data-nav="codex">📚 Sổ Tay</button>
+        <button class="nav-btn" data-nav="hall">🏆 Huyền Thoại</button>
+        <button class="nav-btn" data-nav="settings">⚙️ Cài Đặt</button>
+      </nav>
+
+      <div class="nav-hero-pill" id="nav-hero-pill" title="Xem Hồ Sơ Chiến Binh">
+        <span class="hero-lvl-badge" id="nav-hero-lvl">Lv.1</span>
+        <span id="nav-hero-name" style="font-size:13px;font-weight:700;color:var(--gold-bright);">Chiến Binh Tri Thức</span>
+      </div>
+    </header>
+
+    <main class="screen-viewport" id="screen-viewport"></main>
+  </div>
+
+  <!-- Global Modal Overlay (Boss Intro, Pause, Victory/Skills, Defeat, Confirmations) -->
+  <div class="modal-backdrop hidden" id="modal-overlay"></div>
+
+  <!-- Toast Notification Layer -->
+  <div id="toast-container"></div>
+
+  <!-- Verified 230-Question Offline Data Module (Zero-CORS for direct index.html open) -->
+  <script src="data/questions_data.js"></script>
+
+  <!-- Modular Game Systems -->
+  <script src="js/storage.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/art.js"></script>
+  <script src="js/questions.js"></script>
+  <script src="js/skills.js"></script>
+  <script src="js/bosses.js"></script>
+  <script src="js/progression.js"></script>
+  <script src="js/combat.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>

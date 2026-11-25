@@ -1,0 +1,73 @@
+/* ============================================================
+   ANIMATIONS & VISUAL EFFECTS
+   ============================================================ */
+
+@keyframes monsterIdle {
+  0%, 100% { transform: translateY(0px) scale(1); }
+  50% { transform: translateY(-7px) scale(1.02); }
+}
+
+@keyframes monsterHurt {
+  0% { transform: translateX(0) scale(1); filter: brightness(1); }
+  20% { transform: translateX(-14px) rotate(-4deg) scale(0.94); filter: brightness(2.2) saturate(1.8); }
+  50% { transform: translateX(12px) rotate(3deg); filter: brightness(1.5); }
+  100% { transform: translateX(0) scale(1); filter: brightness(1); }
+}
+
+@keyframes monsterAttack {
+  0% { transform: scale(1) translateY(0); }
+  35% { transform: scale(1.16) translateY(14px); filter: drop-shadow(0 0 24px #ef4444); }
+  100% { transform: scale(1) translateY(0); }
+}
+
+@keyframes monsterDeath {
+  0% { transform: scale(1); opacity: 1; filter: brightness(1); }
+  35% { transform: scale(1.12); opacity: 0.9; filter: brightness(2.8); }
+  100% { transform: scale(0.4) translateY(30px); opacity: 0; filter: blur(6px); }
+}
+
+@keyframes screenShake {
+  0%, 100% { transform: translate(0, 0); }
+  18% { transform: translate(-7px, 4px); }
+  36% { transform: translate(7px, -5px); }
+  54% { transform: translate(-5px, -3px); }
+  72% { transform: translate(5px, 4px); }
+}
+
+@keyframes dmgFloat {
+  0% { opacity: 0; transform: translate(-50%, 0) scale(0.6); }
+  18% { opacity: 1; transform: translate(-50%, -22px) scale(1.15); }
+  100% { opacity: 0; transform: translate(-50%, -78px) scale(0.92); }
+}
+
+@keyframes pulseUrgent {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.12); }
+}
+
+@keyframes pathLightFlow {
+  0% { left: -45%; }
+  100% { left: 105%; }
+}
+
+@keyframes toastIn {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes screenFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes bossReveal {
+  0% { opacity: 0; transform: scale(0.84); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.anim-hurt { animation: monsterHurt 0.42s ease !important; }
+.anim-attack { animation: monsterAttack 0.45s ease !important; }
+.anim-death { animation: monsterDeath 0.75s ease forwards !important; }
+.anim-shake { animation: screenShake 0.36s ease !important; }
+.screen-enter { animation: screenFadeIn 0.28s ease; }
+.boss-reveal { animation: bossReveal 0.45s cubic-bezier(0.16, 1, 0.3, 1); }

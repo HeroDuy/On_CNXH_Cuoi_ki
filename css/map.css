@@ -1,0 +1,275 @@
+/* ============================================================
+   WORLD MAP & STAGE SELECTION PATHWAYS
+   ============================================================ */
+
+.world-map-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 18px;
+}
+
+.realm-card {
+  position: relative;
+  border-radius: var(--radius-lg);
+  padding: 20px 18px;
+  border: 1.5px solid var(--gold-border);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 310px;
+  transition: transform 0.24s ease, box-shadow 0.24s ease, border-color 0.24s ease;
+  cursor: pointer;
+}
+
+.realm-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.26;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.realm-card > * { position: relative; z-index: 1; }
+
+.realm-card:hover:not(.locked) {
+  transform: translateY(-5px);
+  border-color: var(--gold-bright);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.65), 0 0 24px rgba(212, 166, 74, 0.28);
+}
+
+.realm-card.locked {
+  filter: grayscale(0.75) brightness(0.65);
+  cursor: not-allowed;
+  border-color: rgba(148, 163, 184, 0.25);
+}
+
+/* 5 Distinct Region Themes */
+.realm-ch3 { background: linear-gradient(160deg, #0f2924 0%, #09151a 55%, #070b14 100%); }
+.realm-ch4 { background: linear-gradient(160deg, #10254a 0%, #0b1630 55%, #070b14 100%); }
+.realm-ch5 { background: linear-gradient(160deg, #3b151a 0%, #1d0e19 55%, #070b14 100%); }
+.realm-ch6 { background: linear-gradient(160deg, #2b1448 0%, #170e2e 55%, #070b14 100%); }
+.realm-ch7 { background: linear-gradient(160deg, #3c290c 0%, #1f170d 55%, #070b14 100%); }
+
+.realm-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.realm-chap-pill {
+  font-size: 11.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  padding: 4px 10px;
+  border-radius: 99px;
+  background: rgba(0, 0, 0, 0.45);
+  border: 1px solid var(--gold-border);
+  color: var(--gold-bright);
+}
+
+.realm-emblem {
+  width: 68px;
+  height: 68px;
+  margin: 4px auto;
+}
+
+.realm-name {
+  font-family: var(--font-display);
+  font-size: 21px;
+  font-weight: 700;
+  color: var(--gold-bright);
+  text-align: center;
+}
+
+.realm-sub {
+  font-size: 12.5px;
+  color: var(--text-soft);
+  text-align: center;
+  min-height: 36px;
+}
+
+.realm-meta-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12.5px;
+  color: var(--text-muted);
+}
+
+.realm-lock-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(5, 8, 16, 0.56);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  z-index: 5;
+  text-align: center;
+  padding: 16px;
+}
+
+/* Stage Selection Banner & Pathway */
+.stage-realm-banner {
+  border-radius: var(--radius-lg);
+  padding: 20px 24px;
+  border: 1.5px solid var(--gold-border);
+  margin-bottom: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  box-shadow: var(--shadow-deep);
+}
+
+.stage-pathway {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: center;
+  gap: 18px;
+  padding: 24px 14px;
+  border-radius: var(--radius-lg);
+  background: rgba(10, 15, 28, 0.85);
+  border: 1px solid rgba(212, 166, 74, 0.25);
+}
+
+.stage-connector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  flex-shrink: 0;
+}
+
+.stage-connector-line {
+  width: 100%;
+  height: 4px;
+  border-radius: 99px;
+  background: rgba(148, 163, 184, 0.25);
+  position: relative;
+  overflow: hidden;
+}
+
+.stage-connector-line.unlocked {
+  background: linear-gradient(90deg, var(--gold-dim), var(--gold-bright));
+  box-shadow: 0 0 12px rgba(245, 214, 138, 0.55);
+}
+
+.stage-connector-line.unlocked::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -40%;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, #fff, transparent);
+  animation: pathLightFlow 2s linear infinite;
+}
+
+.stage-node {
+  width: 220px;
+  border-radius: var(--radius-md);
+  padding: 16px 14px;
+  background: linear-gradient(165deg, rgba(22, 34, 60, 0.94), rgba(11, 17, 32, 0.96));
+  border: 1.5px solid var(--gold-border);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+}
+
+.stage-node:hover:not(.locked) {
+  transform: translateY(-4px);
+  border-color: var(--gold-bright);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.6), 0 0 18px rgba(245, 214, 138, 0.25);
+}
+
+.stage-node.cleared {
+  border-color: rgba(16, 185, 129, 0.65);
+}
+
+.stage-node.locked {
+  opacity: 0.52;
+  filter: grayscale(0.8);
+  cursor: not-allowed;
+}
+
+.stage-node.boss-node {
+  width: 250px;
+  background: linear-gradient(165deg, rgba(64, 16, 26, 0.94), rgba(18, 10, 22, 0.97));
+  border: 2px solid #ef4444;
+  box-shadow: 0 0 24px rgba(239, 68, 68, 0.24);
+}
+
+.stage-node.boss-node:hover:not(.locked) {
+  border-color: #fca5a5;
+  box-shadow: 0 12px 32px rgba(239, 68, 68, 0.4);
+}
+
+.stage-node-art {
+  width: 78px;
+  height: 78px;
+  display: grid;
+  place-items: center;
+}
+
+.stage-node-code {
+  font-size: 11.5px;
+  font-weight: 800;
+  color: var(--gold-bright);
+  letter-spacing: 0.7px;
+  text-transform: uppercase;
+}
+
+.stage-node-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-main);
+  line-height: 1.35;
+  min-height: 36px;
+}
+
+.stage-node-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.stage-rank-corner {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  font-size: 13px;
+}
+
+.boss-gate-alert {
+  background: rgba(127, 29, 29, 0.38);
+  border: 1px solid rgba(248, 113, 113, 0.55);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  color: #fecaca;
+  font-size: 14px;
+}
+
+@media (max-width: 900px) {
+  .stage-connector { display: none; }
+  .stage-node, .stage-node.boss-node { width: 100%; max-width: 320px; }
+}
